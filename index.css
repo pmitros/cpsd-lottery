@@ -3,6 +3,7 @@
 
 .tree {
     min-width: 192   0px;
+    display: block;
 }
 
 .tree ul {
@@ -72,4 +73,17 @@ right connector from last child*/
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
+}
+
+.vertical-text {
+    transform: rotate(90deg);
+    
+    transform-origin: left top 0;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    display:inline-block;
+    width: 80px;
 }
