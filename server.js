@@ -8,15 +8,14 @@ schools['amigos']="Amigos";
 
 
 app.get('/', function(req, res){
-    res.write( markdown.toHTML( "Markdown test: *Hello* **World**!" ) );
-    res.write("<a href=\"/becca.html\">becca landing</a><br/>");
-    res.write("<a href=\"/schools/amigos\">amigos example using Markdown</a><br/><br/>");
-    res.write("<a href=\"/index.html\">original index</a>");
-/*
-    res.write("<html>");
-    res.write("</html>");
-*/
-    res.end();
+    fs.readFile("public/becca.html", 'utf8', function (err,data) {
+      if (err) {
+        return console.log(err);
+      }
+      res.write("<br/><a href=\"/index.html\"><b>original index</b></a><br/><br/>");
+      res.write(data);
+      res.end();
+    })
 })
 app.use(express.static('public'))
 
