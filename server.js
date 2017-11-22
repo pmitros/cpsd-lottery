@@ -29,6 +29,8 @@ app.get('/schools/:name', function (req, res) {
       return console.log(err);
     }
     res.write("<html>");
+    res.write("<link href=\"/css/new.css\" rel=\"stylesheet\" />");
+    res.write("<p> <a href=\"/becca.html\">< Schools</a></p> ");
     res.write(markdown.toHTML(data.toString()));
     res.write("</html>");
     res.end();
