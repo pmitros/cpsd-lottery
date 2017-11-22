@@ -1,20 +1,38 @@
 var express = require('express');
 var fs = require('fs');
 var app = express();
+var markdown = require( "markdown" ).markdown;
+
+var schools={};
+schools['amigos']="Amigos";
+
 
 app.get('/', function(req, res){
-    res.write("Hello, World");
+    res.write( markdown.toHTML( "Markdown test: *Hello* **World**!" ) );
+    res.write("<a href=\"/becca.html\">becca landing</a><br/>");
+    res.write("<a href=\"/schools/amigos\">amigos example using Markdown</a><br/><br/>");
+    res.write("<a href=\"/index.html\">original index</a>");
+/*
+    res.write("<html>");
+    res.write("</html>");
+*/
     res.end();
 })
+app.use(express.static('public'))
 
-app.get('/index.html', function(req, res){
-    var readFile = fs.createReadStream("index.html");
-    readFile.pipe(res);
-})
+//TODO:
+// 2) get bootstrap working so will have tabs and nicely formatted body
 
-app.get('/index.css', function(req, res){
-    var readFile = fs.createReadStream("index.css");
-    readFile.pipe(res);
+app.get('/schools/:name', function (req, res) {
+  fs.readFile(req.params.name+".md", 'utf8', function (err,data) {
+    if (err) {
+      return console.log(err);
+    }
+    res.write("<html>");
+    res.write(markdown.toHTML(data.toString()));
+    res.write("</html>");
+    res.end();
+  })
 })
 
 //var hummus = require('hummus');

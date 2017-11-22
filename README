@@ -1,0 +1,11 @@
+### installation
+npm install express
+npm install supervisor -g  # note may need sudo
+
+### to run
+supervisor server.js # instead of node, so it'll update based on code change
+
+### simple database
+#install postgres (brew?)
+brew install homebrew/versions/postgresql@9.5
+#start postgres (hmm need to research how... :)
