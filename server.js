@@ -12,7 +12,6 @@ app.get('/', function(req, res){
       if (err) {
         return console.log(err);
       }
-      res.write("<br/><a href=\"/index.html\"><b>original index</b></a><br/><br/>");
       res.write(data);
       res.end();
     })
