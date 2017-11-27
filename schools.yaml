@@ -1,28 +1,70 @@
-Amigos:
+amigos:
+  Name: Amigos School
   Address: 15 Upton Street
-Baldwin
-  Address: 
-Cambridgeport
-  Address: 
-Dr. Martin Luther King, Jr.
-  Address: 
-Chinese Immersion at Dr. MLK
-  Address: 
-Fletcher Maynard
-  Address: 
-Graham and Parks
-  Address: 
-Haggerty
-  Address: 
-Kennedy-Longfellow
-  Address: 
-King Open
-  Address: 
-Morse
-  Address: 
-Ola Portuguese Immersion at King Open
-  Address: 
-Peabody
-  Address: 
-Tobin Montessori
-  Address: 
+  Code: 00490006
+  Web: http://amigos.cpsd.us/
+baldwin: 
+  Name: Maria L. Baldwin
+  Address: 85 Oxford Street
+  Code: 00490005
+  Web: http://baldwin.cpsd.us/
+cambridgeport:
+  Name: Cambridgeport
+  Address: 89 Elm Street
+  Code: 00490007
+  Web: http://cambridgeport.cpsd.us/
+mlk:
+  Name: Dr. Martin Luther King, Jr.
+  Address: 102 Putnam Avenue
+  Code: 00490030
+  Web: http://mlk.cpsd.us/
+mlk-ci:
+  Name: Chinese Immersion at Dr. MLK
+  Address: 102 Putnam Avenue
+  Code: 00490030
+  Web: http://mlk.cpsd.us/
+fma:
+  Name: Fletcher/Maynard Academy
+  Address: 225 Windsor Street
+  Code: 00490090
+  Web: http://fma.cpsd.us/
+grahamandparks:
+  Name: Graham and Parks
+  Address: 44 Linnaean Street
+  Code: 00490080
+  Web: http://grahamandparks.cpsd.us/
+haggerty:
+  Name: Haggerty
+  Address: 110 Cushing Street
+  Code: 00490020
+  Web: http://haggerty.cpsd.us/
+klo:
+  Name: Kennedy-Longfellow
+  Address: 158 Spring Street
+  Code: 00490040
+  Web: http://klo.cpsd.us/
+kingopen:
+  Name: King Open
+  Address: 359 Broadway
+  Code: 00490035
+  Web: http://kingopen.cpsd.us/
+morse:
+  Name: Morse
+  Address: 40 Granite Street
+  Code: 00490045
+  Web: http://morse.cpsd.us/
+kingopen-ola:
+  Name: Ola Portuguese Immersion at King Open
+  Address: 359 Broadway
+  Code: 00490035
+  Web: http://kingopen.cpsd.us/
+peabody:
+  Name: Peabody
+  Address: 70 Rindge Avenue
+  Code: 00490050
+  Web: http://peabody.cpsd.us/
+tobin:
+  Name: Tobin Montessori
+  Address: 197 Vassal Lane
+  Code: 00490065
+  Web: http://tobin.cpsd.us/
