@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-      <link crossorigin="anonymous" href="/css/index.css" rel="stylesheet" />
-      <link crossorigin="anonymous" href="/css/new.css" rel="stylesheet" />
+      <link crossorigin="anonymous" href="css/index.css" rel="stylesheet" />
+      <link crossorigin="anonymous" href="css/new.css" rel="stylesheet" />
+      <meta charset="UTF-8">
   </head>
   <body>
 
@@ -18,7 +19,7 @@
       </tr>
 
       <tr>
-	<td colspan="2"><a href="/schools/amigos" >Amigos</a> (Spanish Immersion)</td>
+	<td colspan="2"><a href="#amigos" >Amigos</a> (Spanish Immersion)</td>
 	<td rowspan="14"><a href="/schools/crls" >CRLS</a></td>
       </tr>
  
@@ -34,7 +35,7 @@
       <tr><td>Graham and Parks</td></tr>
       <tr><td>Haggerty</td></tr>
       
-      <tr><td><a href="/schools/fma" >FMA</a></td><td rowspan="4">Cambridge St.</td></tr>
+      <tr><td><a href="#fma" >FMA</a></td><td rowspan="4">Cambridge St.</td></tr>
       <tr><td>King Open</td></tr>
       <tr><td>Ola Portugese Immersion at King Open</td></tr>
       <tr><td>CambridgePort</td></tr>
@@ -47,5 +48,29 @@
     <!--<i>Click to zoom in new window.</i>-->
     </a>
 
+    <div id="schoolinfo">
+    </div>
+
+    <script src="lib/jquery-3.2.1.min.js" type="text/javascript"></script>
+    <script src="lib/showdown.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      var converter = new showdown.Converter();
+      function refresh() {
+          var page_location = window.location.hash.substring(1);
+          if(page_location == "") {
+             page_location = "index";
+          }
+          console.log(page_location);
+          $.ajax({url: "schools/"+page_location+".md"}).done(function( data ) {
+          html = converter.makeHtml(data);
+          $("#schoolinfo").html(html);
+        });
+      }
+      $(function() {
+         $("#schoolinfo").html("Loading...");
+         window.onhashchange = refresh;
+         refresh();
+      });
+    </script>
   </body>
 </html>

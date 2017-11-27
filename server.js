@@ -22,7 +22,7 @@ app.use(express.static('public'))
 // 2) get bootstrap working so will have tabs and nicely formatted body
 
 app.get('/schools/:name', function (req, res) {
-  fs.readFile(req.params.name+".md", 'utf8', function (err,data) {
+  fs.readFile("public/schools/"+req.params.name+".md", 'utf8', function (err,data) {
     if (err) {
       return console.log(err);
     }
