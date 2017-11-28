@@ -38,10 +38,18 @@ function printTabs(out, which){
 <ul class="dropdown-menu" role="menu">
   <li><a class="external" href="/schools/amigos">Amigos</a></li>
   <li><a class="external" href="/schools/baldwin">Baldwin</a></li>
-  <li><a class="external" href="/schools/cport">Cambridgeport</a></li>
+  <li><a class="external" href="/schools/cambridgeport">Cambridgeport</a></li>
   <li><a class="external" href="/schools/mlk">Dr. MLK</a></li>
   <li><a class="external" href="/schools/mlk-ci">Chinese Immersion (at Dr. MLK)</a></li>
   <li><a class="external" href="/schools/fma">Fletcher Maynard</a></li>
+  <li><a class="external" href="/schools/grahamandparks">Graham & Parks</a></li>
+  <li><a class="external" href="/schools/haggerty">Haggerty</a></li>
+  <li><a class="external" href="/schools/klo">Kennedy-Longfellow</a></li>
+  <li><a class="external" href="/schools/kingopen">King Open</a></li>
+  <li><a class="external" href="/schools/morse">Morse</a></li>
+  <li><a class="external" href="/schools/kingopen-ola">Ola Portugese Immersion (at King Open)</a></li>
+  <li><a class="external" href="/schools/peabody">Peabody</a></li>
+  <li><a class="external" href="/schools/tobin">Tobin Montessori</a></li>
 </ul>
 </li>
      `)
