@@ -22,26 +22,26 @@ function printHeader(out,title){
 }
 
 function printTabs(out, which){
-  tabs=['Schools', 'How to Choose','Lottery De-Mystified', 'Language/Immersion', '3 Year-Olds']
-  urls=['/', '/choose','/lottery', '/language', '/three-year-old']
+  tabs=['Home','School Choices', 'How to Choose','Lottery', 'Immersion', '3 Year-Olds']
+  urls=['/', '/', '/choose','/lottery', '/language', '/three-year-old']
 
   out.write( `
 <div>
 <nav class="navbar navbar-inverse" role="navigation" style="padding-left:130px;">
        <ul class="nav navbar-nav">`);
-
   for (var i=0; i<tabs.length; i++){
-    if (i==0){
+    if (i==1){
       out.write (`
 <li class="dropdown ${which==i ? 'active' : ''}">
 <a class="header dropdown-toggle external" data-toggle="dropdown" role="button"
  href="${urls[i]}">${tabs[i]}<span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-  <li><a class="external" href="/">--All--</a></li>
   <li><a class="external" href="/schools/amigos">Amigos</a></li>
   <li><a class="external" href="/schools/baldwin">Baldwin</a></li>
   <li><a class="external" href="/schools/cport">Cambridgeport</a></li>
   <li><a class="external" href="/schools/mlk">Dr. MLK</a></li>
+  <li><a class="external" href="/schools/mlk-ci">Chinese Immersion (at Dr. MLK)</a></li>
+  <li><a class="external" href="/schools/fma">Fletcher Maynard</a></li>
 </ul>
 </li>
      `)
@@ -93,16 +93,16 @@ app.get('/', function(req, res){
 app.use(express.static('public'))
 
 app.get('/choose', function(req, res){
-  printMd(res,"choose", "How to Choose a School", 1);
+  printMd(res,"choose", "How to Choose a School", 2);
 })
 app.get('/lottery', function(req, res){
-  printMd(res,"lottery", "CPS Lottery De-Mystified", 2);
+  printMd(res,"lottery", "CPS Lottery De-Mystified", 3);
 })
 app.get('/language', function(req, res){
-  printMd(res,"language", "Immersion/World Language", 3);
+  printMd(res,"language", "Immersion/World Language", 4);
 })
 app.get('/three-year-old', function(req, res){
-  printMd(res,"three-yo", "Three Year Old Lottery", 4);
+  printMd(res,"three-yo", "Three Year Old Lottery", 5);
 })
 
 
@@ -112,7 +112,7 @@ app.get('/schools/:name', function (req, res) {
       return console.log(err);
     }
     printHeader(res, req.params.name)
-    printTabs(res, 0)
+    printTabs(res, 1)
     res.write("<p> <a href=\"/\">< Schools</a></p> ");
     res.write(markdown.toHTML(data.toString()));
     printFooter(res)
