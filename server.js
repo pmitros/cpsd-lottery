@@ -6,11 +6,6 @@ var markdown = require( "markdown" ).markdown;
 var schools={};
 schools['amigos']="Amigos";
 
-
-
-//TODO:
-// 2) get bootstrap working so will have tabs and nicely formatted body
-
 function printHeader(out,title){
   out.write( `<!doctype html> 
 <html lang=\"en\">
@@ -27,21 +22,22 @@ function printHeader(out,title){
 }
 
 function printTabs(out, which){
-  tabs=['Home','How to choose','Lottery de-mystified', 'Language/Immersion', '3 year-old']
-  urls=['/','/choose','/lottery', '/language', '/three-year-old']
+  tabs=['Schools', 'How to Choose','Lottery De-Mystified', 'Language/Immersion', '3 Year-Olds']
+  urls=['/', '/choose','/lottery', '/language', '/three-year-old']
 
   out.write( `
 <div>
 <nav class="navbar navbar-inverse" role="navigation" style="padding-left:130px;">
        <ul class="nav navbar-nav">`);
-  tabs.
-      <li class="active"><a href="/">Home<span class="sr-only">(current)</span></a></li>
-      <li><a href="/about">About us</a></li>
-      <li><a href="/contact">Contact us</a></li>
-    </ul>
+
+  for (var i=0; i<tabs.length; i++){
+    out.write(`
+      <li class="${which==i ? 'active' : ''}"><a href="${urls[i]}">${tabs[i]}</a></li>`);
+  }
+  out.write (`
+  </ul>
 </nav>
 </div>
-<br/>
 <div class="container">
 `)
 }
@@ -51,6 +47,20 @@ function printFooter(out){
 </div>
 </body>
 </html>`)
+}
+
+//markdown file
+function printMd(out,name,title,tab){
+    fs.readFile("public/"+name+".md", 'utf8', function (err,data) {
+      if (err) {
+        return console.log(err);
+      }
+    printHeader(out, title);
+    printTabs(out, tab)
+    out.write(markdown.toHTML(data.toString()));
+    printFooter(out)
+    out.end();
+    })
 }
 
 app.get('/', function(req, res){
@@ -66,6 +76,20 @@ app.get('/', function(req, res){
     })
 })
 app.use(express.static('public'))
+
+app.get('/choose', function(req, res){
+  printMd(res,"choose", "How to Choose a School", 1);
+})
+app.get('/lottery', function(req, res){
+  printMd(res,"lottery", "CPS Lottery De-Mystified", 2);
+})
+app.get('/language', function(req, res){
+  printMd(res,"language", "Immersion/World Language", 3);
+})
+app.get('/three-year-old', function(req, res){
+  printMd(res,"three-yo", "Three Year Old Lottery", 4);
+})
+
 
 app.get('/schools/:name', function (req, res) {
   fs.readFile("public/schools/"+req.params.name+".md", 'utf8', function (err,data) {
