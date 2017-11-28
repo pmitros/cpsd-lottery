@@ -31,8 +31,23 @@ function printTabs(out, which){
        <ul class="nav navbar-nav">`);
 
   for (var i=0; i<tabs.length; i++){
-    out.write(`
-      <li class="${which==i ? 'active' : ''}"><a href="${urls[i]}">${tabs[i]}</a></li>`);
+    if (i==0){
+      out.write (`
+<li class="dropdown ${which==i ? 'active' : ''}">
+<a class="header dropdown-toggle external" data-toggle="dropdown" role="button"
+ href="${urls[i]}">${tabs[i]}<span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+  <li><a class="external" href="/">--All--</a></li>
+  <li><a class="external" href="/schools/amigos">Amigos</a></li>
+  <li><a class="external" href="/schools/baldwin">Baldwin</a></li>
+  <li><a class="external" href="/schools/cport">Cambridgeport</a></li>
+  <li><a class="external" href="/schools/mlk">Dr. MLK</a></li>
+</ul>
+</li>
+     `)
+   } else {
+     out.write(` <li class="${which==i ? 'active' : ''}"><a href="${urls[i]}">${tabs[i]}</a></li>`);
+   }
   }
   out.write (`
   </ul>
