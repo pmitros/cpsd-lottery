@@ -6,7 +6,6 @@ Here are some of our suggestions:
 * **No need to stress,** most parents are very happy with whichever school they end up with. :) But do take the time to learn about the schools. 
 
 * Start with **proximity schools**
-
     * Benefits of knowing other kids in your **neighborhood** for your kids to have playdates (now) and hang out with (later).
 
     * More likely to hang out at school and get to know what’s going on and the other parents.  (Some of my best friends now are parents from our schools.)

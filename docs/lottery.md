@@ -12,7 +12,7 @@ Here's the school choice form. As a first pass, you might just fill in your scho
 ## The Gory Details
 However, if your goal is to go to an oversubscribed school, as many are, it gets a lot more complex.  So, to get into the complexity:
 
-* **Siblings** of kids already in programs will almost always get into those programs first. For example, in this fall's lottery, most if not all the remaining spots in Chinese Immersion are expected to be taken by siblings, but that will not be the case the following year due to changed policies. So it's helpful to look at numbers to estimate your odds.
+* **Siblings** of kids already in programs will almost always get into those programs first. For example, in the January 2018 lottery, most if not all the remaining spots in Chinese Immersion are expected to be taken by siblings, but that will not be the case starting the following year due to  internal transfer being eliminated. So it's helpful to look at numbers to estimate your odds.
 
 * Next will be kids with **priority points**. These come from passing a language exam for immersion programs, or proximity for other schools. For many oversubscribed schools, you are unlikely to get in unless you have at least this level of priority. Back when Graham and Parks was run by Len Solo back in the 70-90s, there was a flood of short leases by one-percenters in the proximity of the school to gain proximity priority points.
 
@@ -22,7 +22,7 @@ However, if your goal is to go to an oversubscribed school, as many are, it gets
 
 * If your goal is to go to **FMA** or **Tobin Montessori**, you may consider [the three-year-old lottery](http://www.cpsd.us/departments/frc/registering_for/new_3_year_old) a year earlier. That will give your child priority. For FMA's three-year-old lottery, you may consider BabyU which will give priority into the FMA preschool, Scholar College.  
 
-Note the three year old lottery is very competitive. 
+    Note the three year old lottery is very competitive. 
 
 * The CPSD lottery will not place you in an oversubscribed second or third choice school. You have a few choices here: (1) Place an undersubscribed safety school second. You'll get in. (2) Place an oversubscribed second and third choice you know you won't get into (Chinese Immersion and Amigos are good choices). This will give you top priority in the wait list for your #1 choice. (3) Rate schools honestly. If you don't get into #1, #2, or #3, at least you'll be on all waiting lists. Which of those choices makes most sense depends on what you care about. If you want a school close by, and there are several, go with #3. If you really want to avoid mandatory assignment, go with #1. If there's a program you really want, go with #2. This decision may also depend on typical waitlist length (for which you can call FRC). 
 
