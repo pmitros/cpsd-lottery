@@ -251,6 +251,12 @@ img.cat {
   color: #888;
 }
 
+.backgray {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #ccc;
+}
+
 h1 {
   font-size: 19pt;
   margin-top: 5px;

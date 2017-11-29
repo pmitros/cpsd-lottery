@@ -5,14 +5,16 @@ Here are some of our suggestions:
 
 * **No need to stress,** most parents are very happy with whichever school they end up with. :) But do take the time to learn about the schools. 
 
-* Start with **proximity schools**
+* Start with **[proximity schools](http://cpsd.us/departments/frc/proximity_map_finder)**
     * Benefits of knowing other kids in your **neighborhood** for your kids to have playdates (now) and hang out with (later).
+
+    * You can walk your child to school.  If your child has to take a **school bus** to get to school, note you'll often need to get to the bus stop early. (Even though we live a 10 minute ride away from school, we had to get to the bus 35 minutes earlier.)  Schools start at different times, from 7:55 to 8:55.  So work backwards to get a sense of how early you'll need to get your child ready every day if you're counting on the bus.
 
     * More likely to hang out at school and get to know what’s going on and the other parents.  (Some of my best friends now are parents from our schools.)
 
-* There is no one best school: Different schools for different kids and families.
+* There is no one best school: different schools fit  different kids and families.
 
-* Visit the schools!  Schedule **school tours** for schools you’re interested in.
+* Visit the schools!  Schedule **school tours** for schools you’re interested in. 
 
 * Specialty programs: e.g.  music, language, Montessori, etc.
 
