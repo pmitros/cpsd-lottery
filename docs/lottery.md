@@ -2,7 +2,7 @@
 
 Here's the school choice form 
 
-![school choice form](/img/school_choice.png "School Choice Form")
+![school choice form](img/school_choice.png "School Choice Form")
 
 As a first pass, you might just fill in your school choices in order.
 
