@@ -6,22 +6,8 @@ var markdown = require( "markdown" ).markdown;
 var schools={};
 schools['amigos']="Amigos";
 
-function printHeader(out,title){
-  out.write( `<!doctype html> 
-<html lang=\"en\">
-<head>
-<meta charset=\"UTF-8\">
-<title>`+title+`</title>
-<script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>
-<link rel=\"stylesheet\" href=\"http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css\">
-<script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js\"></script>
-<link href=\"/css/new.css\" rel=\"stylesheet\" />
-</head>
-<body>
-`)
-}
-
 function printTabs(out, which){
+    return;
   tabs=['Home','School Choices', 'How to Choose','Lottery', 'Immersion', '3 Year-Olds']
   urls=['/', '/', '/choose','/lottery', '/language', '/three-year-old']
 
@@ -65,68 +51,16 @@ function printTabs(out, which){
 `)
 }
 
-function printFooter(out){
-  out.write( `
-</div>
-</body>
-</html>`)
-}
-
-//markdown file
-function printMd(out,name,title,tab){
-    fs.readFile("public/"+name+".md", 'utf8', function (err,data) {
-      if (err) {
-        return console.log(err);
-      }
-    printHeader(out, title);
-    printTabs(out, tab)
-    out.write(markdown.toHTML(data.toString()));
-    printFooter(out)
-    out.end();
-    })
-}
-
 app.get('/', function(req, res){
     fs.readFile("public/becca.html", 'utf8', function (err,data) {
       if (err) {
         return console.log(err);
       }
-    printHeader(res, req.params.name)
-    printTabs(res, 0)
       res.write(data);
-    printFooter(res)
       res.end();
     })
 })
 app.use(express.static('public'))
-
-app.get('/choose', function(req, res){
-  printMd(res,"choose", "How to Choose a School", 2);
-})
-app.get('/lottery', function(req, res){
-  printMd(res,"lottery", "CPS Lottery De-Mystified", 3);
-})
-app.get('/language', function(req, res){
-  printMd(res,"language", "Immersion/World Language", 4);
-})
-app.get('/three-year-old', function(req, res){
-  printMd(res,"three-yo", "Three Year Old Lottery", 5);
-})
-
-
-app.get('/schools/:name', function (req, res) {
-  fs.readFile("public/schools/"+req.params.name+".md", 'utf8', function (err,data) {
-    if (err) {
-      return console.log(err);
-    }
-    printHeader(res, req.params.name)
-    printTabs(res, 1)
-    res.write("<p> <a href=\"/\">< Schools</a></p> ");
-    res.write(markdown.toHTML(data.toString()));
-    printFooter(res)
-    res.end();
-  })
-})
 
 //var hummus = require('hummus');
 
