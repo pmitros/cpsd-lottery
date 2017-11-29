@@ -1,18 +1,11 @@
-# FMA
-
-* Amazing **community** - envy of other parents. ;-)
-* Amazing **principal** sets the tone for school of working together with families and community
-* Weekly **all-school assembly** with agenda put together by the students themselves… all the parents are invited. (Try going to one of those to get a sense of the community.)
-* Word on the street "hidden gem".
-
 
 ## General
 
-### What do most parents say they like the most about your school?
+#### What do most parents say they like the most about your school?
 
 Robin Harris, the principal, cares about every student, and bends over backwards to help them. 
 
-### Are most families from the neighborhood or spread throughout Cambridge?
+#### Are most families from the neighborhood or spread throughout Cambridge?
 
 There is a concentration of kids from the Port neighborhood, but kids come from all around Cambridge too.
 
@@ -96,7 +89,7 @@ The community is sometimes a bit defensive. The school has had an undeserved neg
 
 ## Community
 
-## How friendly is the community? Do most parents know each other? How do the parents interact? What’s the best way to get to know other parents? Do families generally invite the whole class to birthday parties? How often do kids have playdates with classmates?
+### How friendly is the community? Do most parents know each other? How do the parents interact? What’s the best way to get to know other parents? Do families generally invite the whole class to birthday parties? How often do kids have playdates with classmates?
 
 The parent I spoke to expressed that the community was very friendly from her perspective, but she advised asking the same questions to parents of other demographics (esp. Haitian parents), where she wasn't sure.
 
@@ -125,3 +118,10 @@ There are no room parents. Class events are organized by teachers.
 ### How integrated is the school? 
 
 There is a strong clustering by gender, but less so by race. School projects are integrated; teachers are very intentional about having group projects in groups sometimes homogenous by ability level and sometimes heterogenous.
+
+### From parents at other schools:
+* Amazing **community** - envy of other parents. ;-)
+* Amazing **principal** sets the tone for school of working together with families and community
+* Weekly **all-school assembly** with agenda put together by the students themselves… all the parents are invited. (Try going to one of those to get a sense of the community.)
+* Word on the street "hidden gem".
+
