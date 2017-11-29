@@ -2,7 +2,7 @@
 # Grab html2img from my github repo (pmitros)
 # Make a 'processing' directory
 # Run this script.
-# Run ls |xargs -iXX convert XX -crop 882x290+243+606 ../public/img/XX
+# Run ls |xargs -iXX convert XX -crop 882x290+243+606 ../docs/img/XX
 # in that directory.
 
 # This could be cleaned up and integrated, but I think this is a one-off run
