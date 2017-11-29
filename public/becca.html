@@ -166,7 +166,7 @@
           And for static pages, we just load a div with the markdown.
           */
           if (static_pages[page_location]) {
-             $.ajax({url: "/"+page_location+".md"}).done(function( data ) {
+             $.ajax({url: page_location+".md"}).done(function( data ) {
                 var html = converter.makeHtml(data);
                 $("#main-page-container").html(html);
              });
