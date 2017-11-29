@@ -52,7 +52,7 @@ function printTabs(out, which){
 }
 
 app.get('/', function(req, res){
-    fs.readFile("public/becca.html", 'utf8', function (err,data) {
+    fs.readFile("docs/index.html", 'utf8', function (err,data) {
       if (err) {
         return console.log(err);
       }
@@ -60,7 +60,7 @@ app.get('/', function(req, res){
       res.end();
     })
 })
-app.use(express.static('public'))
+app.use(express.static('docs'))
 
 //var hummus = require('hummus');
 
