@@ -1,10 +1,12 @@
-Lottery De-Mystified (and re-mystified)
+# Lottery De-Mystified (and re-mystified)
 
 Here's the school choice form 
 
 ![school choice form](/img/school_choice.png "School Choice Form")
 
 As a first pass, you might just fill in your school choices in order.
+
+# The Gory Details
 
 However, if your goal is to go to an oversubscribed school, as many are, it gets a lot more complex. The CPSD school lottery is gameable. What this means is that parents with MIT Ph.Ds have a strong advantage over ones without (if gaming concerns you, please write to [the school committee](mailto:SchoolCom@cpsd.us) asking them to switch to [a non-gameable](http://www.columbia.edu/~js1353/pubs/tst-ipco99.pdf) system, as many other districts have).
 
