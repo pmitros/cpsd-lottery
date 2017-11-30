@@ -40,5 +40,5 @@ There are also options for world language programs, where kids learn for less th
 * Spanish at Peabody (4th grade)
 * Chinese at MLK
 
-They are good options if you want some language program but don't care for fluency, or are unable to get into the immersion programs. Parents generally feel happy about the language exposure, but frustrated that because there are new kids joining the program every year or during the year, it's hard to build fluency as teachers have to ensure that the kids just starting out are able to keep up.
+They are good options if you want some language program but don't care for fluency, or are unable to get into the immersion programs. Parents we spoke to are generally happy about the language exposure, but a bit frustrated that because there are new kids joining the program every year or during the year, it's hard to build fluency as teachers have to ensure that the kids just starting out are able to keep up.
 

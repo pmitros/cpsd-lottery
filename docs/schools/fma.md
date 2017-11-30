@@ -1,11 +1,11 @@
 
 ## General
 
-#### What do most parents say they like the most about your school?
+### What do most parents say they like the most about your school?
 
 Robin Harris, the principal, cares about every student, and bends over backwards to help them. 
 
-#### Are most families from the neighborhood or spread throughout Cambridge?
+### Are most families from the neighborhood or spread throughout Cambridge?
 
 There is a concentration of kids from the Port neighborhood, but kids come from all around Cambridge too.
 
