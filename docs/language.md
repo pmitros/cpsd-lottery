@@ -1,5 +1,5 @@
 # Immersion / World Language Programs
-We decided to add a section on immersion programs because they are choices offered in the lottery.  You **cannot** be mandatory assigned to an immersion program, so if you like the idea of your child learning another language, find out more and make a decision.
+We decided to add a section on immersion programs because they are choices offered in the lottery.  You **cannot** be mandatorily assigned to an immersion program, so if you like the idea of your child learning another language, find out more and make a decision.
 
 There are three dual-immersion programs at Cambridge, where students learn both English and another language starting in kindergarten (usually about half day in each), see 
 [official description](http://www.cpsd.us/departments/frc/waitlist_transfers/immersion_program)).
@@ -10,7 +10,7 @@ There are three dual-immersion programs at Cambridge, where students learn both 
 
 ### Why Immersion 
 * There are many benefits to dual immersion eduation, from [higher test scores to fewer behavior problems](https://www.npr.org/sections/ed/2016/11/29/497943749/6-potential-brain-benefits-of-bilingual-education).
-* In today's global economy, knowing how to speak a another language increases future job opportunities. 
+* In today's global economy, knowing how to speak another language increases future job opportunities. 
 
 ### FAQ about Immersion 
 ####Q. What if we don't speak that language at home?
@@ -31,7 +31,7 @@ The immersion programs are **over-subscribed by high-income** (or paid lunch) fa
 
 * For free/reduced lunch families, you have a much better shot of getting into all the immersion programs. And even if the kindergarten is full, it's quite likely that in 1st grade and above spots will open up.  
 
-* For determined paid lunch families, some do succeed in waiting out the waitlist. We know families that transferred in 1st, 2nd, or even 3rd grade, often with the help of a parent, a tutor, or weekend language programs.  We're not suggesting you do that, frankly we're amazed how determined some families are, and thought we should let everyone know the options, and let you decide.  Also, at the MLK School, in the third grade the Chinese immersion and non-immersion strands merge, so you can switch then as well.
+* For determined paid lunch families, some do succeed in waiting out the waitlist. We know families that transferred in 1st, 2nd, or even 3rd grade, often with the help of a parent, a tutor, or weekend language programs.  We're not suggesting you do that, frankly we're amazed how determined some families are, and thought we should let everyone have the info so you can make the best decision.  Also, at the MLK School, in the third grade the Chinese immersion and non-immersion strands merge, so you can switch then as well.
 
 ### World Language Programs
 There are also options for world language programs, where kids learn for less than an hour a day. 
