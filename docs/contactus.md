@@ -25,7 +25,13 @@ Or if you see something here that you disagree with or would like to quality fur
     * [Cambridgeport PTO](http://www.cambridgeportpto.org/)
     * [Friends of Dr. MLK](http://mlkfriends.com)
     * [FMA PTO](http://my.fmapto.org/)
+    * [Friends of Graham and Parks](http://grahamandparks.cpsd.us/cms/One.aspx?portalId=3043838&pageId=3659252)
     * [Friends of King Open](https://friendsofkingopen.com/)
+    * [Friends of Haggerty](https://sites.google.com/site/friendsofhaggerty/)
+    * [Friends of K-Lo](https://www.facebook.com/FRIENDSOFKLO/)
+    * [Friends of the Morse School](https://www.facebook.com/pg/FriendsOfTheMorseSchool/about/?ref=page_internal)
+    * [Peabody Connection](https://sites.google.com/site/peabodytheconnection/home)
+    * [Friends of Tobin](https://www.facebook.com/friendsoftobin/)
 <br/>
 <br/>
 * More ways to [Get Involved with CPS](http://www.cpsd.us/UserFiles/Servers/Server_3042785/File/Migration/Family_Participation_Resources_CSAG.pdf?rev=1)
