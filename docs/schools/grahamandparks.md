@@ -55,7 +55,7 @@ Note: Parent had mostly background for JK/K, didn't know older grades. Suspect m
 
 ### How academically intense are the programs in grades 3-5?
 
-
+(Parent didn't know; young child)
 
 ### Is there homework, and how much in each grade?
 
@@ -63,11 +63,11 @@ Starts in second grade, maybe?
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
-
+(Parent didn't know; young child)
 
 ### What modes of instruction are dominant (e.g. lecture, projects, groupwork, etc.)
 
-
+(Parent didn't know; young child)
 
 ## Family Engagement
 
