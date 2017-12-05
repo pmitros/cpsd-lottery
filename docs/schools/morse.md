@@ -34,7 +34,7 @@ Very happy. Most frequent is moving. Parent I spoke to couldn't think of complai
 
 ## Academics
 
-### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school? (seems hard for ppl to know…) How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
+### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school? How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
 
 Special needs kids are pretty well incorporated. One child had a significant mental disability; still had lots of friends, seemed happy, well-adjusted, and kids related well. The plans 
 

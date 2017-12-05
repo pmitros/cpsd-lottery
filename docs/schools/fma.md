@@ -31,9 +31,9 @@ Take advantage of Robin's openness. Approach the PTO people. Get into the commun
 
 ## Academics
 
-### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school? (seems hard for ppl to know…) How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
+### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school? How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
 
-Much of this wasn't known to the parent I spoke to, but we did discuss outside interests a bit. There are student clubs which meet once a week. Basketball club. Drawing. Yoga. Kinetic sculptures. Teachers run those.
+Much of this wasn't known to the parents we spoke to (it's more a question for admins), but we did discuss outside interests a bit. There are student clubs which meet once a week. Basketball club. Drawing. Yoga. Kinetic sculptures. Teachers run those.
 
 The schools approach to differeniating is on a teacher-by-teacher basis. Some are excellent, some are less so. 
 
