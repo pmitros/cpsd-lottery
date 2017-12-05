@@ -1,5 +1,9 @@
 ## General
 
+Graham and Parks is perhaps the most famous elementary school in the system. It was founded in 1972 as an alternative, progressive school. It was one of the most successful progressive schools in the nation, and much of its genesis is described in the book [Making an Extraordinary School: The Work of Ordinary People](https://books.google.com/books?id=pRaaGNcrvaIC). It was the first magnet school in the district, affirmatively bringing in kids from all parts of Cambridge, all ethnicities, and all socioeconomic brackets. The school was run by a council of parents and teachers (the principal had one vote, just like everybody else). Learning was personalized to the interest of individual students. It rejected standardization, and focused on educating the entire student to act as a good member of the community.
+
+The school district underwent [a standardization effort](http://www.nonpartisaneducation.org/Review/Testimonials/v10n2.htm) in the early 2000's, so only some aspects of the founding model remain.
+
 ### What do most parents say they like the most about Graham and Parks?
 
 * It's a good school community. That's not unique to our school by any means, but it's a very welcoming community. Families are warm, inviting, and eager to get to know other families and be helpful.
