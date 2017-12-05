@@ -1,6 +1,6 @@
 The Cambridge School District has long had a school named after Martin Luther King. In 1975, an open classroom pilot was started at MLK (based on Graham and Parks) which eventually split off into the King Open school, while MLK kept a more traditional education model. In 2011, an innovative Chinese Immersion program was created within the MLK school, and now the school is split, with about 40% of students in the immersion track, and about 60% in the non-immersion track. Students from both tracks mix (and increasingly in higher grades, where the English half of the day becomes fully integrated).
 
-The immersion track tends to be **extremely** oversubscribed.
+The immersion track tends to be **extremely** oversubscribed. There are expected to be no spots available for children without siblings already in the program in the 2018 lottery. 
 
 ## General
 
