@@ -6,6 +6,7 @@ amigos:
   sip: http://mitros.org/cpsd/Amigos_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Amigos
   pto-url: http://amigos.cpsd.us/about_our_school/parent_organizations/friends_of_amigos/
+  school-hours: "8:55 am - 2:55 pm (early dropoff: 7:30 am)"
 baldwin: 
   Name: Maria L. Baldwin
   Address: 85 Oxford Street, Cambridge, MA
@@ -14,6 +15,7 @@ baldwin:
   sip: http://mitros.org/cpsd/Baldwin_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Baldwin
   pto-url: https://sites.google.com/view/friendsofbaldwin/home
+  school-hours: 8:55 am-2:55 pm (arrive 8:40-8:50 am)
 cambridgeport:
   Name: Cambridgeport
   Address: 89 Elm Street, Cambridge, MA
@@ -22,6 +24,7 @@ cambridgeport:
   sip: http://mitros.org/cpsd/CPORT_School_Improvement_Plan_2014-16.pdf
   pto: Cambridgeport PTO
   pto-url: http://www.cambridgeportpto.org/
+  school-hours: "8:25 am - 2:25 pm (students should arrive when classrooms open 8:10 am)"
 mlk:
   Name: Dr. Martin Luther King, Jr.
   Address: 102 Putnam Avenue, Cambridge, MA
@@ -30,6 +33,7 @@ mlk:
   sip: http://mitros.org/cpsd/MLK_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Dr. MLK
   pto-url: http://mlkfriends.com/
+  school-hours: "MTTF: 7:55 am - 3:55 pm/W: 7:55 am - 1:55pm (early drop-off 7:30 am)"
 mlk-ci:
   Name: Chinese Immersion at Dr. MLK
   Address: 102 Putnam Avenue, Cambridge, MA
@@ -38,6 +42,7 @@ mlk-ci:
   sip: http://mitros.org/cpsd/MLK_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Dr. MLK
   pto-url: http://mlkfriends.com/
+  school-hours: "MTTF: 7:55 am - 3:55 pm/W: 7:55 am - 1:55pm"
 fma:
   Name: Fletcher/Maynard Academy
   Address: 225 Windsor Street, Cambridge, MA
@@ -46,6 +51,7 @@ fma:
   sip: http://mitros.org/cpsd/FMA_School_Improvement_Plan_2014-16.pdf
   pto: FMA PTO
   pto-url: http://my.fmapto.org/
+  school-hours: "MTTF: 7:45 am - 3:45 pm/W: 7:45 am - 2pm"
 grahamandparks:
   Name: Graham and Parks
   Address: 44 Linnaean Street, Cambridge, MA
@@ -54,6 +60,7 @@ grahamandparks:
   sip: http://mitros.org/cpsd/GP_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Graham and Parks
   pto-url: http://grahamandparks.cpsd.us/cms/One.aspx?portalId=3043838&pageId=3659252/
+  school-hours: 8:25 am - 2:25 pm
 haggerty:
   Name: Haggerty
   Address: 110 Cushing Street, Cambridge, MA
@@ -62,6 +69,7 @@ haggerty:
   sip: http://mitros.org/cpsd/Haggerty_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Haggerty
   pto-url: https://sites.google.com/site/friendsofhaggerty/
+  school-hours: 7:55 am - 1:55 pm
 klo:
   Name: Kennedy-Longfellow
   Address: 158 Spring Street, Cambridge, MA
@@ -70,6 +78,7 @@ klo:
   sip: http://mitros.org/cpsd/KLO_School_Improvement_Plan_2014-16.pdf
   pto: Friends of K-Lo
   pto-url: https://www.facebook.com/FRIENDSOFKLO/
+  school-hours: 7:55 am - 1:55 pm
 kingopen:
   Name: King Open
   Address: 359 Broadway, Cambridge, MA (Permanent location 850 Cambridge Street)
@@ -78,14 +87,7 @@ kingopen:
   sip: http://mitros.org/cpsd/KO_School_Improvement_Plan_2014-16.pdf
   pto: Friends of King Open
   pto-url: https://friendsofkingopen.com/
-morse:
-  Name: Morse
-  Address: 40 Granite Street, Cambridge, MA
-  Code: 00490045
-  Web: http://morse.cpsd.us/
-  sip: http://mitros.org/cpsd/Morse_School_Improvement_Plan_2014-16.pdf
-  pto: Friends of the Morse School
-  pto-url: https://www.facebook.com/pg/FriendsOfTheMorseSchool/about/?ref=page_internal
+  school-hours: 8:55 am - 2:55 pm
 kingopen-ola:
   Name: Ola Portuguese Immersion at King Open
   Address: 359 Broadway, Cambridge, MA (Permanent location 850 Cambridge Street)
@@ -94,6 +96,16 @@ kingopen-ola:
   sip: http://mitros.org/cpsd/KO_School_Improvement_Plan_2014-16.pdf
   pto: Friends of King Open
   pto-url: https://friendsofkingopen.com/
+  school-hours: 8:55 am - 2:55 pm
+morse:
+  Name: Morse
+  Address: 40 Granite Street, Cambridge, MA
+  Code: 00490045
+  Web: http://morse.cpsd.us/
+  sip: http://mitros.org/cpsd/Morse_School_Improvement_Plan_2014-16.pdf
+  pto: Friends of the Morse School
+  pto-url: https://www.facebook.com/pg/FriendsOfTheMorseSchool/about/?ref=page_internal
+  school-hours: 8:25 am - 2:25 pm
 peabody:
   Name: Peabody
   Address: 70 Rindge Avenue, Cambridge, MA
@@ -102,6 +114,7 @@ peabody:
   sip: http://mitros.org/cpsd/Peabody_School_Improvement_Plan_2014-16.pdf
   pto: Peabody Connection
   pto-url: https://sites.google.com/site/peabodytheconnection/home
+  school-hours: 8:55 am - 2:55 pm
 tobin:
   Name: Tobin Montessori
   Address: 197 Vassal Lane, Cambridge, MA
@@ -110,3 +123,4 @@ tobin:
   sip: http://mitros.org/cpsd/Tobin_School_Improvement_Plan_2014-16.pdf
   pto: Friends of Tobin
   pto-url: https://www.facebook.com/friendsoftobin/
+  school-hours: 7:55 am - 1:55 pm (early drop-off 7:15 am)

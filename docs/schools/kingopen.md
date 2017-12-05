@@ -1,1 +1,3 @@
-No info yet!
+With the success of Graham and Parks in the seventies, parents wishing an open program, where parents and community members were welcome in classrooms, opened up a pilot at the King School. Eventually, this school split off into King Open. King Open is in a temporary location while the school is being rebuilt. It is currently in a run-down building at 359 Broadway, but will move to 850 Cambridge St. as soon as the new building is finished.
+
+We have not yet interviewed a parent from King Open. 
