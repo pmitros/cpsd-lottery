@@ -1,3 +1,5 @@
+The Cambridge School District has long had a school named after Martin Luther King. In 1975, an open classroom pilot was started at MLK (based on Graham and Parks) which eventually split off into the King Open school, while MLK kept a more traditional education model. In 2011, an innovative Chinese Immersion program was created within the MLK school, and now the school is split, with about 40% of students in the immersion track, and about 60% in the non-immersion track. Students from both tracks mix (and increasingly in higher grades).
+
 ## General
 
 ###Q. What's great about our school?
@@ -18,7 +20,7 @@ I would estimate about half around the school, the other half spread out.
 Most people do the community school, they love the variety and Martha runs a great program.  There’s also MLK Afterschool from the DHSP, but that has a long waitlist as it’s for only about 40 kids.
 
 ###Q. How is conflict resolved if there is bullying or harassment?
-I have personal experience with this: first I tell the teacher, who often takes care of it.  Then there’s also the assistant principal, who’d bring the two families together to talk about things. She’s really good at conflict resolution.   I have known kids who transferred out of a class because they can’t get along with another kid.
+I have personal experience with this: first I tell the teacher, who often takes care of it.  Then there’s also the assistant principal, who’d bring the two families together to talk about things. She’s really good at conflict resolution. I have known kids who transferred out of a class because they can’t get along with another kid.
 
 ###Q. How diverse is the school staff? 
 At the kindergarten level, two of the five english teachers are African American.  And of course we have Chinese-speaking teachers to teach Chinese.  The principal is Asian, and many support staff are African American.
@@ -34,9 +36,9 @@ The families that get involved tend to really like the school.  There’s a very
 ## Academics
 ### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school?  How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
 
-As a parent, I'm less familiar on those.  I do know that a number of teachers have experience with differentiation.  One of the kindergarten teacher mentioned when the district did a book on differentiation, they talked to her.  My son sits in a group with a couple of other kids for more advanced math problems. And while he was ahead on reading he was at grade-level on writing so they helped him with that. 
+As a parent, I'm less familiar on those.  I do know that a number of teachers have experience with differentiation.  One of the kindergarten teacher mentioned when the district did a book on differentiation, they talked to her.  My son sits in a group with a couple of other kids for more advanced math problems. And while he was ahead on reading he was at grade-level on writing so they helped him with that. Some parents have complained about advanced students not receiving adequately challenging support. 
 
-### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
+### Aside from the math, English, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
 Everyday my kids get a special class, either music, art, gym, or library.  
 
@@ -54,7 +56,7 @@ Not in grades JK-2, and that's a change since 2016 or so.  And in 3rd grade ther
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
-Not sure.
+The curriculum is tied to Common Core.  The school pays close attention to MCAS results, on a question-by-question basis, and adjusts curriculum to where students are underperforming on the MCAS. 
 
 ### What modes of instruction are dominant (e.g. lecture, projects, groupwork, etc.)
 
@@ -69,7 +71,7 @@ Whenever I've brought up concerns about my kids with the teachers, whether acade
 The principal and our family liaison Marguerite sends regular newsletters out to keep us informed.  Marguerite also emails us about events going on.  As part of my work with the PTO and parent advocacy, I've interacted with Mrguerite and she's been very responsive and helpful.
 
 ### Are parents welcome in classrooms? In the library?
-I visited the classrooom back in JK and since then I've gone back a couple of times to read books or for science day.  I do notice we're asked less and less to go into classrooms.  (Not just upper-grade issue, as my daughter is in K now.)  I'm not sure why that is, as many parents have expressed to me they dont know what's going on at school and would like to visit the class.  You know what, I'm gonna ask about this.
+I visited the classrooom back in JK and since then I've gone back a couple of times to read books or for science day.  I do notice we're asked less and less to go into classrooms.  (Not just upper-grade issue, as my daughter is in K now.)  I'm not sure why that is, as many parents have expressed to me they don't know what's going on at school and would like to visit the class (and in some cases, have not been permitted to do so for more than very short visits).  You know what, I'm gonna ask about this.
 
 I've only been in the library for book fair a couple years back, and more recently not.
 
@@ -94,3 +96,4 @@ The principal Gerald is generally available to meet up with parents to discuss i
 ### What’s the role of the PTO? What does it do? How many active parents in the PTO? 
 ### Do all the classes have room parents? Who is in charge of planning classroom events?
 ### How integrated is the school? 
+
