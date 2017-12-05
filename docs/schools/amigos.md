@@ -1,10 +1,10 @@
 ## General
 
-Amigos is a K-8 school based on a two-way Spanish immersion program. The school tends to be oversubscribed. We have not yet found an Amigos parent to interview.
+Amigos is a K-8 school based on a two-way Spanish immersion program. The school tends to be oversubscribed. We have not yet interviewed an MLK parent.
 
 ### What's to like?
 
-* High test scores
+* Top test scores in the district
 * Two-way language immersion
 
 ### What's not to like?
