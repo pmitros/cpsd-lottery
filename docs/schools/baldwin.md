@@ -1,1 +1,5 @@
-No info yet!
+Originally named after [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agassiz), a Harvard professor wrote prolifically on polygenism (the idea that races were created separately, that they could be classified on the basis of specific climatic zones, and that they were endowed with unequal attributes), the Baldwin school was [renamed](http://www.thecrimson.com/article/2002/5/22/committee-renames-local-agassiz-school-the/) in 2002 after Maria Baldwin, the first black principal in a mixed-race school in New England, to great controversy. It has strong ties to the Harvard/[Agassiz](http://agassiz.org/) community. It has [before school activities](http://baldwin.cpsd.us/activities/before_school_clubs) in addition to the [normal afterschool programs](http://agassiz.org/childrens-programs/). 
+
+In recent years, it has tended to be one of the more heavily subscribed schools in the district.
+
+We are still looking for a parent to interview.
