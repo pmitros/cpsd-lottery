@@ -6,6 +6,6 @@ So on a school lottery sheet, you will see four different choices in schools nam
 
 King Open is in a temporary location while the school is being rebuilt. It is currently in a run-down building at 359 Broadway, but will move to a brand-new state-of-the-art facility at 850 Cambridge St. as soon as the new building is finished, probably in a year. This building will probably be the nicest in the district, being both new and having large sports fields.
 
-King Open has two afterschool programs: Extended Day and Community Schools. While independently, they have some of the weaker offerings among afterschool programs, what's unique is that they work together as a team, making a strong combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. 
+King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. 
 
 King Open is in the MIT-Central area, moving to MIT-Lechmere. The MIT area, which has *many* schools and not as many families, so like all other schools in this area, King Open tends to be pretty undersubscribed. If you list it first (either track), you'll probably get in.

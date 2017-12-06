@@ -103,3 +103,4 @@ The principal Gerald is generally available to meet up with parents to discuss i
 ### Do all the classes have room parents? Who is in charge of planning classroom events?
 ### How integrated is the school? 
 
+The school has a strong African American community and a strong Asian community. As a school named after Dr. Martin Luther King, but with a Chinese Immersion program, there is sometime some friction between which of these shall be more emphasized in the school. 
