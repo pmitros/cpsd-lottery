@@ -1,19 +1,15 @@
-Cambridge has two related schools named after Dr. King which are sometimes confused by new parents. One is called MLK (or MLK, Jr, or King), and the other is called King Open. This article is about the MLK school. To add to the confusion, MLK has two tracks: a Chinese Immersion track, and a non-immersion track (with the **non-immersion** confused called nihao, after its non-immersion Chinese program). King Open, also has a highly-regarded Portugese immersion track, Ola. 
+Cambridge has two related schools named after Dr. King which are sometimes confused by new parents. One is called **Dr. MLK** (or MLK, or King), and the other is called [King Open](#kingopen). This article is about former. To add to the confusion, MLK has two tracks: a [Chinese Immersion ](/#mlk-ci) strad with half day of Chinese learning, and a regular (non-immersion) strand with 45 minuts of Chinese a day. 
 
-To clear up the confusion, and add a bit of history, the Cambridge School District originally had just one school named after Martin Luther King. At the time, Graham and Parks was an extremely progressive, open, and oversubscribed school. Parents looking for a similar model opened up an open classroom pilot at the MLK school. For many years, the school had two programs: mainstream and King Open. Eventually, King Open split off into its own school, while MLK kept the more traditional education model (which it still follows today). In 2011, a similar group of parents opened up an innovative Chinese Immersion program, again, within the MLK school. The school is again split into two tr, with about 40% of students in the immersion track, and about 60% in the non-immersion nihao track. Students from both tracks mix (and increasingly in higher grades, where the English half of the day becomes fully integrated). The immersion track tends to be **extremely** oversubscribed. There are expected to be no spots available for children without siblings already in the program in the 2018 lottery. The mainstream track, most parents who try can get it on.
-
-So on a school lottery sheet, you will see four different choices in schools named after Dr. King. Make sure you pick the right one!
-
-MLK is in the MIT-Harvard area. The MIT area, which has *many* schools and not as many families, so like all other schools in this area, MLK tends to be pretty undersubscribed. If you list it first (non-immersion nihao track), you'll probably get in. It's probably the closest you'll get to Harvard/northwest Cambridge and still find an undersubscribed school.
+MLK is in the MIT-Harvard area. The MIT Area has *many* schools and not as many families, so like all other schools in this area, MLK tends to be pretty undersubscribed. If you list it first (regular strand), you'll probably get in. It's probably the closest you'll get to Harvard/northwest Cambridge and still find an undersubscribed school.  Since moving to the brand new building at the end of 2015, the school has gotten more popular.  Many parents do find themselves on the waitlist in March when the lottery result first comes out.  Fear not, the waitlist moves pretty fast and most kids do get in by the fall.
 
 ## General
 
 ###Q. What's great about our school?
 * Everyone gets to learn a **language**: Chinese!
-* **Chinese Immersion** - wonderful program
+* [**Chinese Immersion**](/#mlk-ci) - wonderful program
 * Beautiful **new building**
 * Great parent **community**
-     * Very engaged MLK Friends
+     * Very engaged parent organization, [MLK Friends](http://mlkfriends.com), one of the largest with 20+ volunteers. 
      * Room Parents for all the classes
      * "People are really friendly", I've heard that from multiple parents.
 * **Diversity** - about equal numbers of African Americans, Whites, and Asians.  Lots of mixed-raced kids.
@@ -103,4 +99,9 @@ The principal Gerald is generally available to meet up with parents to discuss i
 ### Do all the classes have room parents? Who is in charge of planning classroom events?
 ### How integrated is the school? 
 
-The school has a strong African American community and a strong Asian community. As a school named after Dr. Martin Luther King, but with a Chinese Immersion program, there is sometime some friction between which of these shall be more emphasized in the school. 
+The school has a strong African American community and a strong Asian community. As a school named after Dr. Martin Luther King, but with a Chinese Immersion program, there is occasionally some friction between which of these shall be more emphasized in the school. 
+
+### History 
+The Cambridge School District originally had just one school named after Martin Luther King. At the time, Graham and Parks was an extremely progressive, open, and oversubscribed school. Parents looking for a similar model opened up an open classroom pilot at the MLK school. For many years, the school had two programs: mainstream and King Open. Eventually, King Open split off into its own school, while MLK kept the more traditional education model (which it still follows today). In 2011, a similar group of parents opened up an innovative Chinese Immersion program, again, within the MLK school. The school is again split into two tr, with about 40% of students in the immersion track, and about 60% in the non-immersion track. Students from both tracks mix (and increasingly in higher grades, where the English half of the day becomes fully integrated). The immersion track tends to be **extremely** oversubscribed. There are expected to be no spots available for children without siblings already in the program in the 2018 lottery. The mainstream track, most parents who try can get it on.
+
+So on the [school lottery](/#lottery) sheet, you will see four different choices in schools named after Dr. King. Make sure you pick the right one!
