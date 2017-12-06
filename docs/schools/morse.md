@@ -1,3 +1,5 @@
+Morse is a school in the MIT area, to the west of MIT, close to the river, Trader Joes, and Microcenter. The MIT area, which has *many* schools and fewer families, where tend to be pretty undersubscribed. If you list it first, you'll probably get in.
+
 ## General
 
 This interview was a little bit short and we had a poor phone connection; pardon the gaps.

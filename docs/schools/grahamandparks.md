@@ -2,6 +2,8 @@ Named after [Saundra Graham](http://grahamandparks.cpsd.us/about_our_school/hist
 
 The school district underwent [a standardization effort](http://www.nonpartisaneducation.org/Review/Testimonials/v10n2.htm) in the early 2000's, so only some aspects of the founding model remain.
 
+Graham and Parks is still one of the most oversubscribed schools in the district. Kids in the free/reduced-lunch category who list it first generally make it in. Kids in the paid lunch category only make it in with proximity points, and even then, it's not guaranteed (but odds are better than 50/50). 
+
 ## General
 
 ### What do most parents say they like the most about Graham and Parks?

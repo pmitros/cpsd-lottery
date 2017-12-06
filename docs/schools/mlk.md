@@ -4,6 +4,8 @@ To clear up the confusion, and add a bit of history, the Cambridge School Distri
 
 So on a school lottery sheet, you will see four different choices in schools named after Dr. King. Make sure you pick the right one!
 
+MLK is in the MIT-Harvard area. The MIT area, which has *many* schools and not as many families, so like all other schools in this area, MLK tends to be pretty undersubscribed. If you list it first (non-immersion nihao track), you'll probably get in. It's probably the closest you'll get to Harvard/northwest Cambridge and still find an undersubscribed school.
+
 ## General
 
 ###Q. What's great about our school?
