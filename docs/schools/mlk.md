@@ -2,7 +2,7 @@ Cambridge has two related schools named after Dr. King which are sometimes confu
 
 To clear up the confusion, and add a bit of history, the Cambridge School District originally had just one school named after Martin Luther King. At the time, Graham and Parks was an extremely progressive, open, and oversubscribed school. Parents looking for a similar model opened up an open classroom pilot at the MLK school. For many years, the school had two programs: mainstream and King Open. Eventually, King Open split off into its own school, while MLK kept the more traditional education model (which it still follows today). In 2011, a similar group of parents opened up an innovative Chinese Immersion program, again, within the MLK school. The school is again split into two tr, with about 40% of students in the immersion track, and about 60% in the non-immersion nihao track. Students from both tracks mix (and increasingly in higher grades, where the English half of the day becomes fully integrated).
 
-The immersion track tends to be **extremely** oversubscribed. There are expected to be no spots available for children without siblings already in the program in the 2018 lottery. 
+The immersion track tends to be **extremely** oversubscribed. There are expected to be no spots available for children without siblings already in the program in the 2018 lottery. The mainstream track, most parents who try can get it on.
 
 ## General
 
@@ -87,7 +87,7 @@ Recently the word got out that you could book the gym for birthday parties thru 
 
 ### What’s the role of the school council? How often does the school council vote? How many members of the community typically attend meetings?  How involved is the community in decision-making?
 
-The school council is run by the school and parent rep.  Mostly the school informs parents of what's going on, and depends on the topic, you'll get different number of parents showing up.  I haven't been to one in a couple of years, maybe 10-12 parents at the last one I ttended?  There's not much decision making going on.  We've had only one or two vote in maybe last 5 years, I've heard. 
+The school council is run by the school administration.  Mostly the school informs parents of what's going on, and depends on the topic, you'll get different number of parents showing up -- typically maybe 6-12?  There's not much decision making going on.  We've had only one or two vote in maybe last 5 years, I've heard.  Elected representatives are asked not to share what happens at the school council meetings with their constituents without prior review by the school administration. 
 
 ### How transparent is the school?
 
