@@ -1,4 +1,4 @@
-FMA is one of the most interesting schools in the district. It has a strong community involved in all aspects of school operation, including governance. It has partnerships with several research institutions in the area, and tends to be a pilot ground for interesting education initiatives. It's extremely diverse, going out of its way to recruit immigrants, special-needs students, and other populations. 
+FMA is one of the most interesting schools in the district. It has a strong community involved in all aspects of school operation, including governance. Parents hang out in the school. Teachers do home visits. It has partnerships with several research institutions in the area, and tends to be a pilot ground for interesting education initiatives. It's extremely diverse, going out of its way to recruit immigrants, special-needs students, and other populations. 
 
 FMA is a school in the MIT-Kendall area. The MIT area, which has *many* schools and not as many families, so like all other schools in this area, FMA tend to be pretty undersubscribed. If you list it first, you'll probably get in.
 
