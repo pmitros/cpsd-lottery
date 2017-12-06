@@ -89,7 +89,7 @@ Recently the word got out that you could book the gym for birthday parties thru 
 
 ### What’s the role of the school council? How often does the school council vote? How many members of the community typically attend meetings?  How involved is the community in decision-making?
 
-The school council is run by the school administration.  Mostly the school informs parents of what's going on, and depends on the topic, you'll get different number of parents showing up -- typically maybe 6-12?  There's not much decision making going on.  We've had only one or two vote in maybe last 5 years, I've heard.  Elected representatives are asked not to share what happens at the school council meetings with their constituents without prior review by the school administration. 
+The school council is run by the school administration.  Mostly the school informs parents of what's going on, and depends on the topic, you'll get different number of parents showing up -- typically maybe 6-12?  There's not much decision making going on.  We've had only one or two vote in maybe last 5 years, I've heard.  Elected representatives are asked not to share their notes from school council meetings with their constituents without prior review by the school administration. 
 
 ### How transparent is the school?
 
