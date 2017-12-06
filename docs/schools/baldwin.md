@@ -2,4 +2,4 @@ Originally named after [Louis Agassiz](https://en.wikipedia.org/wiki/Louis_Agass
 
 In recent years, it has tended to be one of the more heavily subscribed schools in the district.
 
-We are still looking for a parent to interview.
+We are still looking for a parent to interview, so we have no information beyond that.
