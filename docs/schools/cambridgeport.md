@@ -1,4 +1,4 @@
-Cambridgeport is a school in the MIT-Harvard area. The MIT area schools tend to be undersubscribed, while as one moves towards Harvard and northwest Cambridge, schools get oversubscribed. Cambridgeport is at the edge. Past years, most parent who listed Cambridgeport first made it in even with no priority points (>95% odds, but not guaranteed). The school uses a looping model, where kids stay with teachers for two years in a row.
+Cambridgeport is a school in the MIT-Harvard area. The MIT area schools tend to be undersubscribed, while as one moves towards Harvard and northwest Cambridge, schools get oversubscribed. Cambridgeport is at the edge. Past years, most parents who listed Cambridgeport first made it in even with no priority points (>95% odds, but not guaranteed). The school uses a looping model, where kids stay with teachers for two years in a row.
 
 ## General
 
