@@ -198,7 +198,7 @@ Room parents put together email lists, although a few parents opt-out. Room pare
 
 ### What’s the role of the PTO? What does it do? How many active parents in the PTO? 
 
-*Editor's note: We had an extended discussion about how the Friends groups aren't technically PTOs (there are no teachers), but I'll keep using the term since it's familiar to incoming parents.*
+*Editor's note: We had an extended discussion about how the Friends groups aren't technically PTOs (there are no teachers), but I'll keep using the term since it's familiar to incoming parents. In the context of Amigos, the distinction is more significant than at many schools with the School Council taking on some PTO-style roles which would be handled by Friends groups at some other schools.*
 
 The Friends of Amigos (FOA) fund-raises and organizes events. A major element of this is a community who does fundraising marathons for the school ("The Flash"), but there are other types of fundraising as well for less athletic parents. FOA responsibilities include:
 
