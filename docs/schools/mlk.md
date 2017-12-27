@@ -44,7 +44,7 @@ The families that get involved tend to really like the school.  There’s a very
 ## Academics
 ### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school?  How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
 
-As a parent, I'm less familiar on those.  I do know that a number of teachers have experience with differentiation.  One of the kindergarten teacher mentioned when the district did a book on differentiation, they talked to her.  My son sits in a group with a couple of other kids for more advanced math problems. And while he was ahead on reading he was at grade-level on writing so they helped him with that. Some parents have complained about advanced students not receiving adequately challenging support. 
+As a parent, I'm less familiar on those.  I do know that a number of teachers have experience with differentiation.  One of the kindergarten teacher mentioned when the district did a book on differentiation, they talked to her.  My child sits in a group with a couple of other kids for more advanced math problems. And while he was ahead on reading he was at grade-level on writing so they helped him with that. Some parents have complained about advanced students not receiving adequately challenging support. 
 
 ### Aside from the math, English, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
@@ -60,7 +60,7 @@ Hard for me to compare but I've bought grade-level activity books for my kids an
 
 ### Is there homework, and how much in each grade?
 
-Not in grades JK-2, and that's a change since 2016 or so.  And in 3rd grade there's optional homework.  Gotta be honest I don't think my son did them the first couple of months in the term and the teacher didn't think it a problem.  I am asking my son to start owning his homework more.  It's not a lot. Usually my son can finish the week's homework in a day or two.  The kids are asked to read everyday which they generally do anyway.
+Not in grades JK-2, and that's a change since 2016 or so.  And in 3rd grade there's optional homework.  Gotta be honest I don't think my child did them the first couple of months in the term and the teacher didn't think it a problem.  I am asking my child to start owning his homework more.  It's not a lot. Usually my child can finish the week's homework in a day or two.  The kids are asked to read everyday which they generally do anyway.
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
@@ -81,7 +81,7 @@ The principal and our family liaison Marguerite sends regular newsletters out to
 
 ### Are parents welcome in classrooms? In the library?
 
-I visited the classrooom back in JK and since then I've gone back a couple of times to read books or for science day.  I do notice we're asked less and less to go into classrooms.  (Not just upper-grade issue, as my daughter is in K now.)  I'm not sure why that is, as many parents have expressed to me they don't know what's going on at school and would like to visit the class (and in some cases, have not been permitted to do so for more than very short visits).  You know what, I'm gonna ask about this.
+I visited the classrooom back in JK and since then I've gone back a couple of times to read books or for science day.  I do notice we're asked less and less to go into classrooms.  (Not just upper-grade issue, as one child is in K now.)  I'm not sure why that is, as many parents have expressed to me they don't know what's going on at school and would like to visit the class (and in some cases, have not been permitted to do so for more than very short visits).  You know what, I'm gonna ask about this.
 
 I've only been in the library for book fair a couple years back, and more recently not.
 
