@@ -1,5 +1,5 @@
 # How to choose a school
-First, a [good guide](http://www.cpsd.us/UserFiles/Servers/Server_3042785/File/Migration/Reflections_on_the_Kindergarten_Lottery.pdf?rev=0) from a fellow parent debunking myths around **“playground talk”** reputation or **test scores**. 
+First, a [very good guide](http://www.cpsd.us/UserFiles/Servers/Server_3042785/File/Migration/Reflections_on_the_Kindergarten_Lottery.pdf?rev=0) from a fellow parent debunking myths around **“playground talk”** reputation or **test scores**. 
 
 Here are some of our suggestions:
 

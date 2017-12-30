@@ -15,7 +15,7 @@ Or if you see something here that you disagree with or would like to quality fur
 
 * [**Family Liaisons**](http://www.cpsd.us/departments/frc/making_your_choices/school_tours)  at a specific school for both school tour and additional questions.  Check the CPS Web site.
 
-* [**CPS parents**](http://www.groups.yahoo.com/group/cpsparents/) mailing list: has about 1000 CPS parents, email <cpsparents-subscribe@yahoogroups.com>
+* [**CPS parents**](http://www.groups.yahoo.com/group/cpsparents/) mailing list: has about 1300 CPS parents, email <cpsparents-subscribe@yahoogroups.com>
 
 * [**Yana.com**](http://Yana.com/) Website & forum: has a few hundred CPS parents. Also a weekly newsletter for family events around town that could be useful.
 
