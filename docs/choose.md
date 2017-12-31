@@ -22,11 +22,11 @@ Here are some of our suggestions:
 
 * See how classrooms are managed. Do students look actively **engaged?** Are they doing things? 
 
-* See if there are **parents** or other community members in the school.
+* See if there are **parents** or other community members in the school (especially helping out in classrooms).
   That shows family engagement by the school.
 
-* Look for **diversity**: students learn better when there’s a variety of them.  And whether integrated?
+* Look for **diversity**: students learn better when there’s a variety of them.  And are they integrated or do kids segregate?
 
-* See how well the school does for students a little outside of the mainstream. Almost all Cambridge schools target the median student well. Talk to teachers about what they do if students are ahead or behind.
+* See how well the school does for students a little outside of the mainstream. Almost all Cambridge schools target the median student well. Talk to teachers about what they do if students are ahead or behind (esp. a few grade levels difference).
 
 * Look at **grades 3-5**. There are much bigger differences between schools as kids get older. Briefly look at middle schools too but realize things may change completely in the next six years.
