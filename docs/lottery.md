@@ -32,11 +32,11 @@ However, if your goal is to go to an oversubscribed school, as many are, it gets
 
 * **Wait lists** don't always go in order. For example, for immersion programs, they are cleared trying to maintain a 50/50 balance of native speakers and non-native speakers. Some years, taking the language exam may actually *hurt* your odds of getting in.
 
-Yes, parents can and many do use some the strategies above to improve their chance in the lottery.  You can't guarantee placement at a school but you can greatly increase your odds.  What this means is that parents with time and energy to investigate will have a strong advantage over ones without. We find this really unfortuante, and hope by publicizing the above, to give more parents the right info so they aren't left behind by the lottery game.  
+Yes, parents [can and many do](https://www2.bc.edu/tayfun-sonmez/ChenSonmez-JET06.pdf) use some the strategies above to improve their chance in the lottery.  You can't guarantee placement at a school but you can greatly increase your odds.  What this means is that parents with time and energy to investigate will have a strong advantage over ones without. We find this really unfortuante, and hope by publicizing the above, to give more parents the right info so they aren't left behind by the lottery game.  
 
 
 (If gaming concerns you, please write to [the school committee](mailto:SchoolCom@cpsd.us) asking them to switch to [a non-gameable](http://www.columbia.edu/~js1353/pubs/tst-ipco99.pdf) system, as many other districts have; these are also more modern systems and more broadly result in better placements).
-If you'd like to see a worked example for one program, [this page](http://vote.mitros.org/chinese-immersion) describes how the 2017 Chinese Immersion lottery worked. Note that transfers were since eliminated. 
+If you'd like to see a worked example for one program, [this page](http://vote.mitros.org/chinese-immersion) describes how the 2017 Chinese Immersion lottery worked. Note that transfers were since eliminated so the flow chart would be (slightly) different today. 
 
 
 
