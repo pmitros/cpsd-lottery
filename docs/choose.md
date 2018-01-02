@@ -4,13 +4,17 @@ First, a [very good guide](http://www.cpsd.us/UserFiles/Servers/Server_3042785/F
 Here are some of our suggestions:
 
 * **No need to stress.** most parents are very happy with whichever school they end up with. :) But do take the time to learn about the schools. 
-* Start with **[proximity schools](http://cpsd.us/departments/frc/proximity_map_finder)**
+* Start with **[proximity schools](http://cpsd.us/departments/frc/proximity_map_finder)**.  There are many good reasons for doing so:
 
     * Your child would be happy to know other kids in the **neighborhood**, for playdates (now) and hang out with (later).  Many parents who send their kids across town complain that their kids lack playmates. 
 
     * You can walk your child to school.  If your child has to take a **school bus** to get to school, note you'll often need to get to the bus stop early. (Even though we live a 10 minute ride away from school, we had to get to the bus 35 minutes earlier.)  Schools start at different times, from 7:55 to 8:55.  So work backwards to get a sense of how early you'll need to get your child ready every day if you're counting on the bus.
+    * You're more likely to spend more time at school and get to know **what’s going on**.  One of the biggest complaints new CPS parents have is that they no longer get daily reports (like from preschools) about their kids, and feel disconnected from what's going on at schools. That's worse for parents who rely on the busses, and don't come into school.
 
-    * More likely to hang out at school and get to know what’s going on and the other parents.  (Some of my best friends now are parents from our schools.)
+    * You might also get to know more of the **other parents.**  (Some of my best friends now are parents from our schools.)
+
+     * Parents with kids in the upper schools tell us: it's terrific when a child can walk to their upper school all on their own for all three years--very empowering for them and great exercise too (and saves you time.)
+
 
 * There is no one best school: different schools fit  different kids and families.
 
@@ -29,7 +33,7 @@ Here are some of our suggestions:
 
 * See how well the school does for students a little outside of the mainstream. Almost all Cambridge schools target the median student well. Talk to teachers about what they do if students are ahead or behind (esp. a few grade levels difference).
 
-* Look at **grades 3-5**. There are much bigger differences between schools as kids get older. Briefly look at middle schools too but realize things may change completely in the next six years.
+* Look at **grades 3-5**. There are much bigger differences between schools as kids get older. Briefly look at upper schools too but realize things may change completely in the next six years. 
 
 <div class="dspacer"/>
 # Still have concerns about Cambridge schools? 
