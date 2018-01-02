@@ -1,6 +1,6 @@
 # Lottery De-Mystified (and re-mystified)
 
-Here's the school choice form. As a first pass, you might just fill in your school choices in order.
+Here's the school choice form. As a first pass, you might just fill in your school choices in order.  Read our write up on [choosing schools](/#choose) if you need help. 
 
 <div class="backgray">
 <center>
@@ -32,7 +32,7 @@ However, if your goal is to go to an oversubscribed school, as many are, it gets
 
 * **Wait lists** don't always go in order. For example, for immersion programs, they are cleared trying to maintain a 50/50 balance of native speakers and non-native speakers. Some years, taking the language exam may actually *hurt* your odds of getting in.
 
-Yes, parents [can and many do](https://www2.bc.edu/tayfun-sonmez/ChenSonmez-JET06.pdf) use some the strategies above to improve their chance in the lottery.  You can't guarantee placement at a school but you can greatly increase your odds.  What this means is that parents with time and energy to investigate will have a strong advantage over ones without. We find this really unfortuante, and hope by publicizing the above, to give more parents the right info so they aren't left behind by the lottery game.  
+Yes, parents [can and many would](https://www2.bc.edu/tayfun-sonmez/ChenSonmez-JET06.pdf) use some of the strategies above to improve their chance in the lottery.  You can't guarantee placement at a school but you can greatly increase your odds.  What this means is that parents with time and energy to investigate will have a strong advantage over ones without. We find this really unfortuante, and hope by publicizing the above, to give more parents the right info so they aren't left behind by the lottery game.  
 
 
 (If gaming concerns you, please write to [the school committee](mailto:SchoolCom@cpsd.us) asking them to switch to [a non-gameable](http://www.columbia.edu/~js1353/pubs/tst-ipco99.pdf) system, as many other districts have; these are also more modern systems and more broadly result in better placements).
