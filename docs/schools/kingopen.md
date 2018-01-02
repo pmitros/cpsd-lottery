@@ -1,4 +1,4 @@
-**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:becca@yana.com) with general availability for a call (school hours, after kids go to bed, etc.).**
+**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:beccax@gmail.com) with general availability for a call (school hours, after kids go to bed, etc.).**
 
 Cambridge has two related schools named after Dr. King which are sometimes confused by new parents. One is called King Open, and the other is called MLK (or MLK, Jr, or King). This article is about the King Open school. To add to the confusion, both schools have two tracks. MLK has a Chinese Immersion track, and a non-immersion track (with the **non-immersion** confused called nihao!), while King Open has a highly-regarded Portuguese immersion track, Ola. 
 

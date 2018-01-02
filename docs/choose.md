@@ -3,7 +3,7 @@ First, a [very good guide](http://www.cpsd.us/UserFiles/Servers/Server_3042785/F
 
 Here are some of our suggestions:
 
-* **No need to stress.** most parents are very happy with whichever school they end up with. :) But do take the time to learn about the schools. 
+* **No need to stress.** Most parents are very happy with whichever school they end up with, and all the schools are quite good.  But do take the time to learn about the schools. 
 * Start with **[proximity schools](http://cpsd.us/departments/frc/proximity_map_finder)**.  There are many good reasons for doing so:
 
     * Your child would be happy to know other kids in the **neighborhood**, for playdates (now) and hang out with (later).  Many parents who send their kids across town complain that their kids lack playmates. 
@@ -15,10 +15,9 @@ Here are some of our suggestions:
 
      * Parents with kids in the upper schools tell us: it's terrific when a child can walk to their upper school all on their own for all three years--very empowering for them and great exercise too (and saves you time.)
 
+* Visit the schools!  Schedule **school tours** for schools you’re interested in. 
 
 * There is no one best school: different schools fit  different kids and families.
-
-* Visit the schools!  Schedule **school tours** for schools you’re interested in. 
 
 * Specialty programs: e.g.  music, language, Montessori, etc.
 
@@ -36,7 +35,7 @@ Here are some of our suggestions:
 * Look at **grades 3-5**. There are much bigger differences between schools as kids get older. Briefly look at upper schools too but realize things may change completely in the next six years. 
 
 <div class="dspacer"/>
-# Still have concerns about Cambridge schools? 
+# Still have questions about Cambridge schools? 
 
 ### How good are CPSD schools? Should I worry? 
 

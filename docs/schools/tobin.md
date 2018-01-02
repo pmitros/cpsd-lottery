@@ -1,4 +1,4 @@
-**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:becca@yana.com) with general availability for a call (school hours, after kids go to bed, etc.).**
+**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:beccax@gmail.com) with general availability for a call (school hours, after kids go to bed, etc.).**
 
 Tobin is a Montessori program. The Montessori Method of education is a child-centered educational approach which views the child as one who is naturally eager for knowledge and capable of initiating learning in a supportive, thoughtfully prepared learning environment. Children have a choice of activity from within a prescribed range of options and a fair degree of freedom.
 

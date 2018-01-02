@@ -1,4 +1,4 @@
-**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:becca@yana.com) with general availability for a call (school hours, after kids go to bed, etc.).**
+**If you're a parent at the school and would like to be interviewed about your experience, please [contact us](mailto:beccax@gmail.com) with general availability for a call (school hours, after kids go to bed, etc.).**
 
 King Open Ola! is a Portugese immersion program. Most parents pick Spanish or Chinese, simply due to the relative numbers of speakers, and the Portugese community in Cambridge has declined in numbers over the years, so Ola! is the only immersion program in the district where kids can get in without priority points or being in lower socioeconomic brackets. 
 

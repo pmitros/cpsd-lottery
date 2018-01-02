@@ -5,10 +5,10 @@
 Our goal is to get all the information out there to help parents new to CPS to make an informed choice.  Given our source is other parents, we understand the information may be incomplete or incorrect.  Our hope is that you'll let us know if this is the case. :)
 
 #### A new parent to Cambridge Public School (CPS)?
-Do you have questions that are not yet answered? please [let us know](mailto:becca@yana.com)! 
+Do you have questions that are not yet answered? please [let us know](mailto:beccax@gmail.com)! 
 
 #### A current CPS parent?
-We're currently looking for parents to talk to about all the schools. [Contact us](mailto:becca@yana.com) if you'd like to be interviewed about your school.
+We're currently looking for parents to talk to about all the schools. [Contact us](mailto:beccax@gmail.com) if you'd like to be interviewed about your school.
 Or if you see something here that you disagree with or would like to quality further, also let us know!
 
 ### Other useful resources
