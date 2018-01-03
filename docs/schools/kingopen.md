@@ -130,7 +130,7 @@ King Open Extended Day has a lot of their own social activities as well. Meal of
 
 The parent I spoke with didn't know; they worked long hours.
 
-*The Editor spent a day in Ola. The classroom had parents visit to present about their culture for about a half-hour in the morning. Each family was invited to make one such visit during the year. For the rest of the day, aside from the Editor, the classroom had four adults in the classroom the whole time: the teacher, the co-teacher, a relative of a student, and an ed school student who wanted to learn about immersion programs. The level of both community engagement and student-to-adult ratio was very high.*
+*The Editor spent a day in Ola. The classroom had parents visit to present about their culture for about a half-hour in the morning. Each family was invited to make one such visit during the year about their own cultural background. For the rest of the day, aside from the Editor, the classroom had four adults in the classroom the whole time: the teacher, the co-teacher, a relative of a student, and an ed school student who wanted to learn about immersion programs. The level of both community engagement and student-to-adult ratio was very high.*
 
 ### What’s the main channel of communication among parents (mailing list, forum, face-to-face?)
 
