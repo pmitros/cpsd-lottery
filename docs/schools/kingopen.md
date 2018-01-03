@@ -22,9 +22,9 @@ King mainstream is more from the neighborhood, but not everyone. It doesn't feel
 
 ### What are the afterschool options like?
 
-King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help (including in Portugese twice a week), and is relatively free-form. Community Schools has specific classes.
+King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help (including in Portuguese twice a week), and is relatively free-form. Community Schools has specific classes.
 
-The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult bewhavior).
+The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult behavior).
 
 ### How is conflict resolved if there is bullying or harassment?
 
@@ -36,7 +36,7 @@ Most of the teachers tend to be women; there are a few male teachers (e.g. gym t
 
 ### How happy are families about the school, generally speaking? Any reasons for leaving? What are the most common problems parents give about your school?
 
-Getting priced out of the market is the major reason. Ola loses 1-2 families per year due to rising housing costs. The parent hadn't heard of people leaving because people were unhappy with the school; everyone loves the program. The biggest problem is the school facility; the school is in a temporary building which is not very good. The school addressed that pretty well in the interrim -- taking kids to parks and otherwise -- but the lack of playground space is an issue. It will be resolved when the new building opens up.
+Getting priced out of the market is the major reason. Ola loses 1-2 families per year due to rising housing costs. The parent hadn't heard of people leaving because people were unhappy with the school; everyone loves the program. The biggest problem is the school facility; the school is in a temporary building which is not very good. The school addressed that pretty well in the interim -- taking kids to parks and otherwise -- but the lack of playground space is an issue. It will be resolved when the new building opens up.
 
 There is a small group of families who feels strongly about testing and pull their kids out during tests. That leads to some friction and lower test scores. 
 
@@ -58,7 +58,7 @@ The parent I spoke only had experience with Ola. Ola has an advantage in that it
 
 For kids with particular interests, the parent gave an example of a child interested in money where the math curriculum was modified around that topic to give them a chance to become a sort of leader in the class.
 
-### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
+### Aside from the math, English, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
 Specials are the standard set of:
 
@@ -85,7 +85,7 @@ It's on a teacher-by-teacher basis. In Ola, in JK/K, it's optional, while all te
 
 King Open's history places it at odds with MCAS. The school has been focused on project-based learning. That was watered down somewhat during the innovation agenda, but they've tried to keep that as much as possible. It's definitely not a school which is teaching to the test. Some parents are concerned about how kids are doing on the test, so it's definitely something they're paying attention to it, but it's less of a focus than many other schools. The project-based learning has a broader focus than the specifics of content. It still does to teach to the Common Core curriculum, but through the projects. 
 
-### What modes of instruction are dominant (e.g. lecture, projects, groupwork, etc.)
+### What modes of instruction are dominant (e.g. lecture, projects, group work, etc.)
 
 Project-based learning, as much as possible
 
@@ -121,7 +121,7 @@ Principal Williams is very open and transparent and tries to communicate pro-act
 
 ### How friendly is the community? Do most parents know each other? How do the parents interact? What’s the best way to get to know other parents? Do families generally invite the whole class to birthday parties? How often do kids have playdates with classmates?
 
-* Ola is different from King Open. Ola is really tight nit, especially because the classrooms are really small. It's also the same kids together from kindergarten to fifth grade, so it's really close group like a family. It's like brothers and sisters. Some make jokes about it having the feel of a disfunctional family. All the birthday parties in Ola are entire class.
+* Ola is different from King Open. Ola is really tight nit, especially because the classrooms are really small. It's also the same kids together from kindergarten to fifth grade, so it's really close group like a family. It's like brothers and sisters. Some make jokes about it having the feel of a dysfunction family. All the birthday parties in Ola are entire class.
 * The parent I spoke to didn't know as much about King Open mainstream.
 
 King Open Extended Day has a lot of their own social activities as well. Meal of Thanks around Thanksgiving. KOED events are a nice way to meet parents too. 
