@@ -36,7 +36,7 @@ However, if your goal is to go to an oversubscribed school (see [estimated seat 
 
 * **Wait lists** aren't the same. For over-subsbscribed school choices such as the immersion programs, the waitlist for paid lunch families can move glacially slow.  While less over-subscribed programs such as MLK (non-immersion), almost everyone on the waitlist has been able to get in most years.  
 
-* **Wait lists** don't always go in order. For example, for immersion programs, they are cleared trying to maintain a 50/50 balance of native speakers and non-native speakers. Some years, taking the language exam may actually *hurt* your odds of getting in.
+* **Wait lists** don't always go in order. For example, for immersion programs, they are cleared trying to maintain a 50/50 balance of native speakers and non-native speakers. 
 
 * In past years, parents gamed internal transfers (King Open to Ola and MLK to CI). Internal transfers will be unavailable for this lottery.
 
