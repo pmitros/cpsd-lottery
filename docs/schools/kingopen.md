@@ -22,9 +22,11 @@ King mainstream is more from the neighborhood, but not everyone. It doesn't feel
 
 ### What are the afterschool options like?
 
-King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help (including in Portuguese twice a week), and is relatively free-form. Community Schools has specific classes.
+King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help, and is relatively free-form. Community Schools has specific classes.
 
 The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult behavior).
+
+The school also has drop-in Portuguese homework help twice a week, once before school and once after, available even to kids not registered for afterschool.
 
 ### How is conflict resolved if there is bullying or harassment?
 
