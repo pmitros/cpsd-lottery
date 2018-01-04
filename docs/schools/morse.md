@@ -18,7 +18,7 @@ There is the Morse Afterschool and the Community Schools. Both are highly regard
 
 ### How is conflict resolved if there is bullying or harassment?
 
-Parent wasn't sure; impression was that it was handled well.
+Morse uses a system called [PBIS](https://www.pbis.org/) or Positive Behavior Intervention and Supports. The system seems to work well -- I haven't heard of bullying as an issue at Morse and kids overall are very polite and well behaved. Older kids always hold doors, etc. 
 
 ### How diverse is the school staff? 
 
@@ -38,17 +38,23 @@ Very happy. Most frequent is moving. Parent I spoke to couldn't think of complai
 
 ### How do you differentiate instruction by student?  How are advanced learners handled (a few grade levels ahead)?  Help for kids that are struggling/need help? How about special needs students (e.g. autism, dyslexia, etc.)?  How common is it for students outside of the mainstream (in either direction) to transfer out of the school? How about different student interests? For example, if one student is very interested in biology, another in social justice, and a third in drawing…
 
-Special needs kids are pretty well incorporated. One child had a significant mental disability; still had lots of friends, seemed happy, well-adjusted, and kids related well. The plans 
+Special needs kids are pretty well incorporated. One child had a significant mental disability; still had lots of friends, seemed happy, well-adjusted, and kids related well.
 
-Advanced kids, the parent wasn't sure about, but I picked up a mixed impression
+The first parent I spoke to wasn't sure about advanced learners, but a parent of a kindergartner said: "I'm not sure what is done for gifted students -- my daughter is able to go at her own pace in reading and math and seems to be doing higher level work than some of her peers. Since we are new to the school and only in K, I'm not sure what is done in older grades."
 
 ### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
-A ton of music. Visual arts. PE. Special reading/library teacher. Technology component. 
+* Music is FOUR times a week
+* Technology component with a good computer lab
+* Morse is one of two CPS schools piloting a Spanish language teacher - mostly for the higher grades, but the teacher has come into our K classroom and my child has come home with some Spanish vocabulary
+* Good art teacher
+* Special reading/library teacher. Beautiful, large library
+* Physical education
+* Morse has a huge garden and outdoor space. Kids do gardening once a week with city sprouts. The kids also do a cider press/fall celebration out in the garden in early October.
 
 ### How is the day broken down on academic versus non-academic time? How much recess is there? How much do kids play otherwise? 
 
-Impression was that younger kids probably have two recesses and older kids one. It's weather-dependent for whether kids go outdoors.
+Impression was that younger kids probably have two recesses and older kids one. It's weather-dependent for whether kids go outdoors. The playground is slated for renovation this spring.
 
 ### How academically intense are the programs in grades 3-5?
 
