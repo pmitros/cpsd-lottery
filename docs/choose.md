@@ -21,6 +21,8 @@ Here are some of our suggestions:
 
 * Specialty programs: e.g.  music, language, Montessori, etc.
 
+* Start and stop times. Do they work for your logistics? Will kids get enough sleep? Check [bus routes](https://ewa.edulogweb.com/cambridgema1web/webquery/) too, as well as before-school and after-school options to get a better idea of realistic hours. Some buses pick kids up a long time before school to give time to drive in and have breakfast in the cafeteria.
+
 ### What to do on a school tour
 
 * See how classrooms are managed. Do students look actively **engaged?** Are they doing things? 
