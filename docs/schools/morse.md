@@ -6,7 +6,8 @@ This interview was a little bit short and we had a poor phone connection; pardon
 
 ### What do most parents say they like the most about your school?
 
-**Love the community**. Well-educated, diverse, lots of love and social opportunities. Parents are amazing, kids are amazing
+* **Love the community**. Well-educated, diverse, lots of love and social opportunities. Parents are amazing, kids are amazing
+* Excellent choice for someone looking for a balanced school: "Morse doesn't have a 'thing' like immersion or project-based learning, but I think the programming and community are really exceptional."
 
 ### Are most families from the neighborhood or spread throughout Cambridge?
 
@@ -16,13 +17,13 @@ Ton of kids from the neighborhood, and a sprinkling from elsewhere.
 
 There are the [Morse Afterschool](http://www.cambridgema.gov/DHSP/programsforkidsandyouth/Afterschool/morsek1afterschool.aspx) and [the Community Schools](http://www.cambridgema.gov/DHSP/programsforkidsandyouth/communityschools/morsecommunityschool). Both are highly regarded. There are good options offered: homework help, wrapup time, playing games, things like chess, architecture, etc.
 
-*Editor's note: If you plan on making use of the afterschool program, we recommend looking through the Community Schools brochures for your final lottery choices.*
-
 Math Olympiad is an extracurricular activity that I believe is organized and run by Morse math coaches and teachers but utilizes parent help too. They meet at least once a week in the library before school.
+
+*Editor's note: If you plan on making use of the afterschool program, we recommend looking through the Community Schools brochures for your final lottery choices.*
 
 ### How is conflict resolved if there is bullying or harassment?
 
-Morse uses a system called [PBIS](https://www.pbis.org/) or Positive Behavior Intervention and Supports. The system seems to work well -- I haven't heard of bullying as an issue at Morse and kids overall are very polite and well behaved. Older kids always hold doors, etc. 
+Morse uses a system called [PBIS](https://www.pbis.org/) or Positive Behavior Intervention and Supports. The system seems to work well -- haven't heard of bullying as an issue at Morse and kids overall are very polite and well behaved. Older kids always hold doors, etc. 
 
 ### How diverse is the school staff? 
 
@@ -30,7 +31,7 @@ We ran out of time before I got to this one.
 
 ### How happy are families about the school, generally speaking? Any reasons for leaving? What are the most common problems parents give about your school?
 
-Very happy. Most frequent is moving. Parent I spoke to couldn't think of complaints. 
+Very happy. The most frequent reason for leaving is moving. Parents I spoke with couldn't think of any complaints. 
 
 ### Tips for new families
 
@@ -51,7 +52,7 @@ I spoke to a second parent about advanced learners and special interests. Her ch
 * Kids do gardening once a week with CitySprouts. The garden at Morse is by far the biggest in the district. Every school has a [CitySprouts](http://citysprouts.org/) garden in some capacity. At some schools the "garden" is just a few planter boxes on pavement. At Morse, the garden spans a good portion of the front of the school. Additionally, I believe the large garden outdoor space is used as an outdoor classroom during nicer weather. Our K teacher said they will go out there for class sometimes. Many classrooms have doors that open directly out to the garden. The kids also do a cider press/fall celebration out in the garden in early October.
 * Music is FOUR times a week, using the [Kodaly method](https://en.wikipedia.org/wiki/Kod%C3%A1ly_method)
 * Technology component with a good computer lab. At some of the oversubscribed schools, computer labs are being appropriated as classrooms since they are running out of space which is not the case at Morse. 
-* Morse is one of two CPS schools piloting a Spanish language teacher - mostly for the higher grades, but the parent I spoke to said the teacher came into her cilds kindergarten classroom and the child came home with some Spanish vocabulary
+* Morse is one of two CPS schools piloting a Spanish language teacher - mostly for the higher grades, but the parent I spoke to said the teacher came into her child's kindergarten classroom and the child came home with some Spanish vocabulary
 * Art class, where kids develop a good amount of knowledge about various artists. As an example, kids studied Piet Mondrian for several weeks and learned some art history along with learning about his style. 
 * Special reading/library teacher. The Morse library is larger than some of the others in the district and has a very welcoming atmosphere. It has a high ceilings and lots of sunlight. The librarian, Ms. Pannell, welcomes parent help/ volunteers in the library and kindergarten parents are allowed to open library cards. Kindergarteners are allowed to check out books with their parents to bring home. Older kids can check out books on their own.
 * Physical education
