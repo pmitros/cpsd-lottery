@@ -40,7 +40,7 @@ Very happy. Most frequent is moving. Parent I spoke to couldn't think of complai
 
 Special needs kids are pretty well incorporated. One child had a significant mental disability; still had lots of friends, seemed happy, well-adjusted, and kids related well.
 
-First parent wasn't sure about advanced learners, but a second parent added: I'm not sure what is done for gifted students -- my daughter is able to go at her own pace in reading and math and seems to be doing higher level work than some of her peers. Since we are new to the school and only in K, I'm not sure what is done in older grades.
+First parent wasn't sure about advanced learners (mixed impression), but a second parent added: I'm not sure what is done for gifted students -- my daughter is able to go at her own pace in reading and math and seems to be doing higher level work than some of her peers. Since we are new to the school and only in K, I'm not sure what is done in older grades.
 
 ### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
