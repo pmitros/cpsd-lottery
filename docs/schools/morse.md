@@ -2,7 +2,7 @@ Morse is a school in the MIT area, to the west of MIT, close to the river, Trade
 
 ## General
 
-This interview was a little bit short and we had a poor phone connection; pardon the gaps.
+This interview was a little bit short and we had a poor phone connection; pardon the gaps. A bit was filled in with an email thread with a second parent.
 
 ### What do most parents say they like the most about your school?
 
@@ -14,7 +14,11 @@ Ton of kids from the neighborhood, and a sprinkling from elsewhere.
 
 ### What are the afterschool options like?
 
-There is the Morse Afterschool and the Community Schools. Both are highly regarded -- good options: homework help, wrapup time, playing games, things like chess, architecture, tc.
+There are the [Morse Afterschool](http://www.cambridgema.gov/DHSP/programsforkidsandyouth/Afterschool/morsek1afterschool.aspx) and [the Community Schools](http://www.cambridgema.gov/DHSP/programsforkidsandyouth/communityschools/morsecommunityschool). Both are highly regarded. There are good options offered: homework help, wrapup time, playing games, things like chess, architecture, etc.
+
+*Editor's note: If you plan on making use of the afterschool program, we recommend looking through the Community Schools brochures for your final lottery choices.*
+
+Math Olympiad is an extracurricular activity that I believe is organized and run by Morse math coaches and teachers but utilizes parent help too. They meet at least once a week in the library before school.
 
 ### How is conflict resolved if there is bullying or harassment?
 
@@ -30,7 +34,7 @@ Very happy. Most frequent is moving. Parent I spoke to couldn't think of complai
 
 ### Tips for new families
 
-* Get involved! Find something that you really like to do (maybe the workshops or the events or social events). You will make good friends and connections if you do those things. Go to the events that interest you!
+* Get involved! Find something that you really like to do (maybe the workshops or the events or social events). If you do those things, you will make good friends and connections. Go to the events that interest you!
 * Have good communications with teachers; it's easy to do that. The teachers are very respected and proactive and on top of academics.
 * If something needs to shift, make sure everyone agrees, and set up a system of accountability. Define goals, points to check in, ownership, etc.
 
@@ -40,21 +44,21 @@ Very happy. Most frequent is moving. Parent I spoke to couldn't think of complai
 
 Special needs kids are pretty well incorporated. One child had a significant mental disability; still had lots of friends, seemed happy, well-adjusted, and kids related well.
 
-First parent wasn't sure about advanced learners (mixed impression), but a second parent added: I'm not sure what is done for gifted students -- my daughter is able to go at her own pace in reading and math and seems to be doing higher level work than some of her peers. Since we are new to the school and only in K, I'm not sure what is done in older grades.
+I spoke to a second parent about advanced learners and special interests. Her child was only in kindergarten, and was able to go at her own pace in reading and math and seems to be doing higher level work than some of her peers. She said the teacher was willing to spend time/create projects around subjects that the kids are showing interest in, rather than just sticking to a rigid agenda. Note that I have not spoken to parents with experience here in older grades; in most cases, that's where issues come in (MCAS testing -- the source of much of the pressure for aligning kids to Common Core rather than to their individual backgrounds -- starts at third grade). 
 
 ### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
-* Music is FOUR times a week
-* Technology component with a good computer lab
-* Morse is one of two CPS schools piloting a Spanish language teacher - mostly for the higher grades, but the teacher has come into our K classroom and my child has come home with some Spanish vocabulary
-* Good art teacher
-* Special reading/library teacher. Beautiful, large library
+* Kids do gardening once a week with CitySprouts. The garden at Morse is by far the biggest in the district. Every school has a [CitySprouts](http://citysprouts.org/) garden in some capacity. At some schools the "garden" is just a few planter boxes on pavement. At Morse, the garden spans a good portion of the front of the school. Additionally, I believe the large garden outdoor space is used as an outdoor classroom during nicer weather. Our K teacher said they will go out there for class sometimes. Many classrooms have doors that open directly out to the garden. The kids also do a cider press/fall celebration out in the garden in early October.
+* Music is FOUR times a week, using the [Kodaly method](https://en.wikipedia.org/wiki/Kod%C3%A1ly_method)
+* Technology component with a good computer lab. At some of the oversubscribed schools, computer labs are being appropriated as classrooms since they are running out of space which is not the case at Morse. 
+* Morse is one of two CPS schools piloting a Spanish language teacher - mostly for the higher grades, but the parent I spoke to said the teacher came into her cilds kindergarten classroom and the child came home with some Spanish vocabulary
+* Art class, where kids develop a good amount of knowledge about various artists. As an example, kids studied Piet Mondrian for several weeks and learned some art history along with learning about his style. 
+* Special reading/library teacher. The Morse library is larger than some of the others in the district and has a very welcoming atmosphere. It has a high ceilings and lots of sunlight. The librarian, Ms. Pannell, welcomes parent help/ volunteers in the library and kindergarten parents are allowed to open library cards. Kindergarteners are allowed to check out books with their parents to bring home. Older kids can check out books on their own.
 * Physical education
-* Morse has a huge garden and outdoor space. Kids do gardening once a week with city sprouts. The kids also do a cider press/fall celebration out in the garden in early October.
 
 ### How is the day broken down on academic versus non-academic time? How much recess is there? How much do kids play otherwise? 
 
-Impression was that younger kids probably have two recesses and older kids one. It's weather-dependent for whether kids go outdoors. The playground is slated for renovation this spring.
+Impression was that younger kids probably have two recesses and older kids one. Per district policy, it's weather-dependent for whether kids go outdoors. The playground is slated for renovation this spring.
 
 ### How academically intense are the programs in grades 3-5?
 
@@ -82,6 +86,8 @@ The parent I spoke to had the impression that parents every teacher is a little 
 
 It does, but somewhat differently than most schools I spoke with. There was a serious number of things like workshops -- sometimes several in one week: learn math how kids do math, literacy issues. Fair number of other events, volunteering, etc. Parent said "Very vibrant community. Amazing community. Very happy."
 
+A second parent said that events she attended had attende had been very crowded with families (in a good way). People seem to know each other. 
+
 ### What's communications with parents like (mailings, parent-teacher conferences, etc.)?
 
 Teachers send literature/pamphlets about what kids are learning each month. Her teacher also has an app which she sends messages on. Overall, it works very well.
@@ -104,7 +110,7 @@ See below about communications. There's a strong community mostly organizing ove
 
 ### How much time do parents spend in schools? How often do they come during pick up/drop-off?
 
-I didn't get a very clear answer, but see above about workshops.
+A lot of families stay and play on the playground after school. Additionally, I've noticed that the staff seems to know families well - teachers and other staff are always greeting people at drop off and pick up. The principal is accessible. I know people who have come to her directly with questions and have been happy with the way she responded.
 
 ### What’s the main channel of communication among parents (mailing list, forum, face-to-face?)
 
@@ -112,7 +118,7 @@ Mailing lists and texting groups are common. Most classes have class-wide mailin
 
 ### What’s the role of the PTO? What does it do? How many active parents in the PTO? 
 
-[We didn't discuss this]
+The Friends of Morse organizes the movie nights as fundraisers. They sell pizza before the movie begins and then show a new, popular movie in the auditorium. We attended the last movie night and it was very well attended. I believe pizza ran out and the auditorium was completely full. Additionally, Friends of Morse organizes the International Festival night. Parents bring food from around the world in a giant potluck and there are activities for the kids, plus a "show" of some kind. This year they had a Chinese lion dancer and a Spanish puppet show. This year there will be a spring fair as well.
 
 ### Do all the classes have room parents? Who is in charge of planning classroom events?
 
