@@ -50,6 +50,8 @@ Here are some of our suggestions:
     * Many parents have changed their mind after actually visiting a school.
 
 
+* Start and stop times. Do they work for your logistics? Will kids get enough sleep? Check [bus routes](https://ewa.edulogweb.com/cambridgema1web/webquery/) too, as well as before-school and after-school options to get a better idea of realistic hours. An 8 am start time might be 7 am bus pickup to drive across Cambridge and give time for breakfast in the school cafeteria!
+
 ### What to do on a school tour
 
 * See how classrooms are managed. Do students look actively **engaged?** Are they doing things? 

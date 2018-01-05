@@ -22,9 +22,11 @@ King mainstream is more from the neighborhood, but not everyone. It doesn't feel
 
 ### What are the afterschool options like?
 
-King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help (including in Portuguese twice a week), and is relatively free-form. Community Schools has specific classes.
+King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help, and is relatively free-form. Community Schools has specific classes.
 
 The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult behavior).
+
+The school also has drop-in Portuguese homework help twice a week, once before school and once after, available even to kids not registered for afterschool.
 
 ### How is conflict resolved if there is bullying or harassment?
 
@@ -42,13 +44,18 @@ There is a small group of families who feels strongly about testing and pull the
 
 ### Tips for new families
 
-Get involved in:
+There are freequent appeals for:
 
+* volunteering to help in library;
+* becoming a room parent;
 * principal chats;
-* Friends of King Open meetings; and
-* School council meetings
+* Friends of King Open meetings;
+* School council meetings;
+* attending events such as carnival and king open spring open;
+* Parent-teacher night out; and
+* weekend backpack program
 
-and get to know other parents. Parents who put their kids in the Extended Day program also have an advantage; a lot of the friendships develop there. The school has a lot of great events too -- a carnival and similar, which also foster connections. And get to know Principal Williams. He's very welcoming and genuinely concerned about what parents have to say. He communicates well and is open to parent input. 
+Once you start attending events, you meet the other families that are active in the school community and get to know other parents. Parents who put their kids in the Extended Day program also have an advantage; a lot of the friendships develop there. And get to know Principal Williams. He's very welcoming and genuinely concerned about what parents have to say. He communicates well and is open to parent input. 
 
 ## Academics
 
