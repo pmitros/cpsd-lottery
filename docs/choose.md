@@ -8,18 +8,47 @@ Here are some of our suggestions:
 
     * Your child would be happy to know other kids in the **neighborhood**, for playdates (now) and hang out with (later).  Many parents who send their kids across town complain that their kids lack playmates. 
 
-    * You can walk your child to school.  If your child has to take a **school bus** to get to school, note you'll often need to get to the bus stop early. (Even though we live a 10 minute ride away from school, we had to get to the bus 35 minutes earlier.)  Schools start at different times, from 7:55 to 8:55.  So work backwards to get a sense of how early you'll need to get your child ready every day if you're counting on the bus.
+    * You can often **walk your child** to school.  Good exercise and less reliance on the bus.
+
+    * For some parents **proximity is their #1** reason for picking a school.
+
     * You're more likely to spend more time at school and get to know **what’s going on**.  One of the biggest complaints new CPS parents have is that they no longer get daily reports (like from preschools) about their kids, and feel disconnected from what's going on at schools. That's worse for parents who rely on the busses, and don't come into school.
 
     * You might also get to know more of the **other parents.**  (Some of my best friends now are parents from our schools.)
 
-     * Parents with kids in the upper schools tell us: it's terrific when a child can walk to their upper school all on their own for all three years--very empowering for them and great exercise too (and saves you time.)
+* Some parents feel the **program they like** trumps proximity.
 
-* Visit the schools!  Schedule **school tours** for schools you’re interested in. 
+    * Many kids like taking the bus.  
 
-* There is no one best school: different schools fit  different kids and families.
+    * You can make friends with other parents from the bus stop.  
 
-* Specialty programs: e.g.  music, language, Montessori, etc.
+    * The other schools are not that far away. Many parents volunteer at a non-neighborhood school and make friends there.
+
+* There is no one best school: **different schools** fit  different kids and families.  Some of the other ways parents tend to choose schools:
+
+    * Specialty programs: e.g.  [language/immersion](/#language), Montessori, Kodaly music, etc.
+
+    * How they deal with **special needs**, from advanced learners to dyslexia to autism.
+
+    * Warmth of the school, strength of the community, philosophy of teaching.
+
+* **School bus** or not (see [eligibility](http://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=3407666) ) is an important consideration for some families:
+
+    *  If your child has to take a school bus to get to school, note you'll often need to get to the bus stop early.  (Even though we live a 10 minute ride away from school, we had to get to the bus 35 minutes earlier.)  Schools start at different times, from 7:55 to 8:55.  So work backwards to get a sense of how early you'll need to get your child ready every day if you're counting on the bus.
+
+    * If you are in an after school program or community school, the bus will take your child from your school to a program in a different location, but there is **no bussing** from the afterschool programs.  So be sure you have an afterschool option near you if you depend on bussing.
+
+    * Some schools have options for earlier drop off.  If that's important to you, the bus won't get you there for that.
+
+    * Parents with kids in the upper schools tell us: it's terrific when a child can walk to their upper school all on their own for all three years--very empowering for them and great exercise too (and saves you time.)
+
+
+* Last but probably most important: **visit the schools!**
+
+    * Schedule **school tours** for schools you’re interested in. 
+    
+    * Many parents have changed their mind after actually visiting a school.
+
 
 ### What to do on a school tour
 
