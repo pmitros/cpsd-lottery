@@ -32,9 +32,13 @@ Here are some of our suggestions:
 
     * Warmth of the school, strength of the community, philosophy of teaching.
 
-* **School bus** or not (see [eligibility](http://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=3407666) ) is an important consideration for some families:
+* More considerations for proximity and **school bus**:
 
-    *  If your child has to take a school bus to get to school, note you'll often need to get to the bus stop early.  (Even though we live a 10 minute ride away from school, we had to get to the bus 35 minutes earlier.)  Schools start at different times, from 7:55 to 8:55.  So work backwards to get a sense of how early you'll need to get your child ready every day if you're counting on the bus.
+    * Schools start at **different times**, from 7:55 to 8:55.  Do they work for your logistics? Will kids get enough sleep? 
+
+    * Check [bus eligibility](http://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=3407666) & [routes](https://ewa.edulogweb.com/cambridgema1web/webquery/) too, as well as before-school and after-school options to get a better idea of realistic hours. 
+
+    * If your child has to take a school bus to get to school, note you'll often need to get to the bus stop early.  An 8 am start time might be 7 am bus pickup to drive across Cambridge and give time for breakfast in the school cafeteria! 
 
     * If you are in an after school program or community school, the bus will take your child from your school to a program in a different location, but there is **no bussing** from the afterschool programs.  So be sure you have an afterschool option near you if you depend on bussing.
 
@@ -49,8 +53,6 @@ Here are some of our suggestions:
     
     * Many parents have changed their mind after actually visiting a school.
 
-
-* Start and stop times. Do they work for your logistics? Will kids get enough sleep? Check [bus routes](https://ewa.edulogweb.com/cambridgema1web/webquery/) too, as well as before-school and after-school options to get a better idea of realistic hours. An 8 am start time might be 7 am bus pickup to drive across Cambridge and give time for breakfast in the school cafeteria!
 
 ### What to do on a school tour
 
