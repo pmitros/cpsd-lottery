@@ -112,11 +112,13 @@ Most of it comes home in a backpack on paper. Parent liaison sends emails 2-3 ti
 
 ### What’s the role of the school council? How often does the school council vote? How many members of the community typically attend meetings? Teacher council? How involved is the community in decision-making?
 
-The parent I spoke to did not know. King Open has three bodies:
+The parent I spoke to did not know. King Open has three major bodies and [a number of smaller ones](:
 
-* **The Ola Committee**. which the parent was familiar with. This meets once every other month. It has 10-20 people at meetings. 1-2 teachers come too. Sometimes principal or an SC member will come as well. The primary goals are support current Ola families and communicating about Ola to new parents  (esp. to lower-income families who are often unfamiliar with it), but other initiatives include things such as organizing trips, and helping to organize the Carnival. The group has a Facebook page now as well. 
-* Friends of King Open meets monthly.
-* School Committee meets monthly. Parent was involved in Ola committee, so didn't know much about the other two.
+* [The Ola Committee](https://kingopen.cpsd.us/cms/One.aspx?portalId=3044251&pageId=3673393). which the parent was familiar with. This meets once every other month. It has 10-20 people at meetings. 1-2 teachers come too. Sometimes principal or an SC member will come as well. The primary goals are support current Ola families and communicating about Ola to new parents  (esp. to lower-income families who are often unfamiliar with it), but other initiatives include things such as organizing trips, and helping to organize the Carnival. The group has a Facebook page now as well. 
+* [Friends of King Open](https://friendsofkingopen.com/) meets monthly.
+* [School Council](https://kingopen.cpsd.us/cms/One.aspx?portalId=3044251&pageId=3673409) meets monthly
+
+Parent was involved in Ola committee, so didn't know much about the other two.
 
 The school has an open house in December. 
 
