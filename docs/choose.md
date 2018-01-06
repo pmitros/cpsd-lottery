@@ -16,7 +16,7 @@ Here are some of our suggestions:
 
     * You might also get to know more of the **other parents.**  (Some of my best friends now are parents from our schools.)
 
-* Some parents feel the **program they like** trumps proximity.
+* Look at further schools which feel like **a better fit**
 
     * Many kids like taking the bus.  
 
