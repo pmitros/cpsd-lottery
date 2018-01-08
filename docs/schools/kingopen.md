@@ -44,7 +44,7 @@ There is a small group of families who feels strongly about testing and pull the
 
 ### Tips for new families
 
-There are freequent appeals for:
+There are frequent appeals for:
 
 * volunteering to help in library;
 * becoming a room parent;

@@ -64,7 +64,7 @@ Not in grades JK-2, and that's a change since 2016 or so.  And in 3rd grade ther
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
-The curriculum closesly follows Common Core.  The school pays close attention to MCAS results, on a question-by-question basis, and adjusts curriculum to where students are underperforming on the MCAS.
+The curriculum closely follows Common Core.  The school pays close attention to MCAS results, on a question-by-question basis, and adjusts curriculum to where students are underperforming on the MCAS.
 
 ### What modes of instruction are dominant (e.g. lecture, projects, groupwork, etc.)
 
