@@ -12,7 +12,7 @@ Almost all families are from the neighborhood.
 
 ### What are the afterschool options like?
 
-There are two programs, the [city-run afterschool program](https://www.cambridgema.gov/DHSP/programsforkidsandyouth/Afterschool/peabodyk2afterschool) which is pretty unstructured and the [Fitzgerald Community School](https://www.cambridgema.gov/DHSP/programsforkidsandyouth/communityschools/fitzgeraldcommunityschool) which has lots of structured activities. Most kids are in the afterschool program, and I understood in the latter, which has many different options for activities. Kids from both do intermingle. 
+There are two programs, the [city-run afterschool program](https://www.cambridgema.gov/DHSP/programsforkidsandyouth/Afterschool/peabodyk2afterschool) which is pretty unstructured and the [Fitzgerald Community School](https://www.cambridgema.gov/DHSP/programsforkidsandyouth/communityschools/fitzgeraldcommunityschool) which has lots of structured activities. Most kids are in one of the afterschool programs, and I understood in the latter, which has many different options for activities. Kids from both do intermingle. 
 
 ### How is conflict resolved if there is bullying or harassment?
 
