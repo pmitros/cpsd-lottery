@@ -128,6 +128,8 @@ Mostly of the interaction is face-to-face. Each classroom has a parent mailing l
 
 It's role is to raise money for school needs. They have fundraisers and events, t-shirt sales, bake sales, and similar. For example, when the school organizes a student art show, the Friends organization will sell t-shirts.
 
+*My impression from our conversation was that the role of the Friends organization was pretty limited, and more broadly, Peabody had fewer school events than most schools in the district. In some sense, this is natural; it was clear Peabody has a lot of informal face-to-face interactions and so less need for the more structured events which dominate community interactions at some of the other schools.* 
+
 ### Do all the classes have room parents? Who is in charge of planning classroom events?
 
 Each classroom has 1-2 room parents. Involvement depends on the classroom and the specific room parent, but it's usually limited. All will make a family email list. Some will run some classroom events as well. 
