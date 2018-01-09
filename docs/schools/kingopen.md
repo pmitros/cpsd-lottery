@@ -22,9 +22,9 @@ King mainstream is more from the neighborhood, but not everyone. It doesn't feel
 
 ### What are the afterschool options like?
 
-King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help, and is relatively free-form. Community Schools has specific classes.
+King Open has two afterschool programs: Extended Day and Community Schools. While some schools have stronger afterschool programs than either of these individually, what's unique is that they work together as a team making for a stronger combined program. A student can sign up for Extended Day, but take specific offering in Community Schools. Extended Day has play, homework help, and is relatively free-form. Community Schools has specific classes. Extended Day is also pretty unique in that the teachers are integrated into the normal classrooms -- in JK/K this means they usually spend time helping in the classroom during the school day, so they are acutely aware of anything going on, things the kids need to work on, etc. 
 
-The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult behavior).
+The program has a strong focus on socioemotional learning using the [Nurtured Heart Approach](https://en.wikipedia.org/wiki/The_Nurtured_Heart_Approach). It's focused on bringing out the best behavior of kids and refocuses classroom on the positive behavior of kids. The parent I spoke with was amazed at how well it worked (especially for managing difficult behavior). A second program also found the combination of that, with integration with normal classrooms, to be super-effective.
 
 The school also has drop-in Portuguese homework help twice a week, once before school and once after, available even to kids not registered for afterschool.
 
@@ -130,8 +130,10 @@ Principal Williams is very open and transparent and tries to communicate pro-act
 
 ### How friendly is the community? Do most parents know each other? How do the parents interact? What’s the best way to get to know other parents? Do families generally invite the whole class to birthday parties? How often do kids have playdates with classmates?
 
-* Ola is different from King Open. Ola is really tight nit, especially because the classrooms are really small. It's also the same kids together from kindergarten to fifth grade, so it's really close group like a family. It's like brothers and sisters. Some make jokes about it having the feel of a dysfunction family. All the birthday parties in Ola are entire class.
-* The parent I spoke to didn't know as much about King Open mainstream.
+Ola is different from King Open. 
+
+* King Open: My son is in K (non-Ola) and one of our favorite things about KO is the community. We have made wonderful friends, have attended and hosted entire-class parties. Weekend is now full of school friend playdates and get together -- several families coordinated to send their kids to the same camp together last year, etc. 
+* Ola: The parent I spoke to from Ola described it as really tight nit, especially because the classrooms are really small. It's also the same kids together from kindergarten to fifth grade, so it's really close group like a family. It's like brothers and sisters. Some make jokes about it having the feel of a dysfunction family. All the birthday parties in Ola are entire class.
 
 King Open Extended Day has a lot of their own social activities as well. Meal of Thanks around Thanksgiving. KOED events are a nice way to meet parents too. 
 
