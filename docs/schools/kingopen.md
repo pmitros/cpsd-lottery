@@ -38,7 +38,7 @@ Most of the teachers tend to be women; there are a few male teachers (e.g. gym t
 
 ### How happy are families about the school, generally speaking? Any reasons for leaving? What are the most common problems parents give about your school?
 
-Families are generally very happy. Many families had not ranked KO due to proximity but have since declined waitlist spots since we all love KO so much and plan to stay forever. 
+Families are generally very happy. Many families had not ranked KO due to proximity but have since declined waitlist spots since they fell in love with KO.
 
 Getting priced out of the market is the major reason. Ola loses 1-2 families per year due to rising housing costs. The parent hadn't heard of people leaving because people were unhappy with the school; everyone loves the program. The biggest problem is the school facility; the school is in a temporary building which is not very good. The school addressed that pretty well in the interim -- taking kids to parks and otherwise -- but the lack of playground space is an issue. It will be resolved when the new building opens up.
 
