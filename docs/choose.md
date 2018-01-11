@@ -26,6 +26,8 @@ Here are some of our suggestions:
 
 * There is no one best school: **different schools** fit  different kids and families.  Some of the other ways parents tend to choose schools:
 
+    * Working adults should consider **afterschool options**. Considering visiting; at schools with early start times, your child might spend almost as much time in afterschool as in school, and the options differ at least as much as schools themselves.
+
     * Specialty programs: e.g.  [language/immersion](/#language), Montessori, Kodaly music, etc.
 
     * How they deal with **special needs**, from advanced learners to dyslexia to autism.
@@ -34,7 +36,7 @@ Here are some of our suggestions:
 
 * More considerations for proximity and **school bus**:
 
-    * Schools start at **different times**, from 7:55 to 8:55.  Do they work for your logistics? Will kids get enough sleep? 
+    * Schools start at **different times**, from 7:55 to 8:55.  Do they work for your logistics? Will kids get [enough sleep](https://www.cdc.gov/features/school-start-times/index.html)? 
 
     * Check [bus eligibility](http://www.cpsd.us/cms/One.aspx?portalId=3042869&pageId=3407666) & [routes](https://ewa.edulogweb.com/cambridgema1web/webquery/) too, as well as before-school and after-school options to get a better idea of realistic hours. 
 
