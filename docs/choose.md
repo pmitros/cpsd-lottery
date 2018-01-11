@@ -12,7 +12,7 @@ Here are some of our suggestions:
 
     * For some parents **proximity is their #1** reason for picking a school.
 
-    * You're more likely to spend more time at school and get to know **what’s going on**.  One of the biggest complaints new CPS parents have is that they no longer get daily reports (like from preschools) about their kids, and feel disconnected from what's going on at schools. That's worse for parents who rely on the busses, and don't come into school.
+    * You're more likely to spend more time at school and get to know **what’s going on**.  One of the biggest complaints new CPS parents have is that they no longer get daily reports (like from preschools) about their kids, and feel disconnected from what's going on at schools. That's worse for parents who rely on the buses, and don't come into school.
 
     * You might also get to know more of the **other parents.**  (Some of my best friends now are parents from our schools.)
 
@@ -42,7 +42,7 @@ Here are some of our suggestions:
 
     * If your child has to take a school bus to get to school, note you'll often need to get to the bus stop early.  An 8 am start time might be 7 am bus pickup to drive across Cambridge and give time for breakfast in the school cafeteria! 
 
-    * If you are in an after school program or community school, the bus will take your child from your school to a program in a different location, but there is **no bussing** from the afterschool programs.  So be sure you have an afterschool option near you if you depend on bussing.
+    * If you are in an after school program or community school, the bus will take your child from your school to a program in a different location, but there is **no busing** from the afterschool programs.  So be sure you have an afterschool option near you if you depend on busing.
 
     * Some schools have options for earlier drop off.  If that's important to you, the bus won't get you there for that.
 
@@ -74,9 +74,9 @@ Here are some of our suggestions:
 
 ### How good are CPSD schools? Should I worry? 
 
-CPSD is among the best school districts in the nation. All of the schools in the system are very good. Are they perfect? Of course not; CPSD has a number of substantive issues which we can go into. But on the whole, any school in CPSD is far better than any school most of us had growing up. Picking between schools in CPSD is like picking between a Porche, a Tesla, a Rolls-Royce limo, and a BMW SUV. Are there better and worse choices? Indubitably. It's worth educating yourself about the schools and the difference. But there aren't any bad choices. Kids are resilient and do well in schools much worse than CPSD.
+CPSD is among the best school districts in the nation. All of the schools in the system are very good. Are they perfect? Of course not; CPSD has a number of substantial issues which we can go into. We hope that you get involved and help surface and address some of those issues. But on the whole, any school in CPSD is far better than any school most of us had growing up. Picking between schools in CPSD is like picking between a Porsche, a Tesla, a Rolls-Royce limo, a Prius, and a BMW SUV. Are there better and worse choices? Indubitably. It's worth educating yourself about the schools and the differences. But there aren't any bad choices. And at the end of the day, kids are quite resilient. Many do extremely well after schools much worse than CPSD.
 
-Let's get a few things out-of-the-way: Most parents and kids are very happy where they end up. CPSD spends 2-3x the state and national averages on a per-student basis, and on-par with many private school. The school district is very good, especially in the early grades and in high school.
+Let's get a few things out-of-the-way: Most parents and kids are very happy where they end up. CPSD spends 2-3x the state and national averages on a per-student basis, and on-par with many private schools. The school district is very good, especially in the early grades and in high school.
 
 ### Should I consider private schools or charters? 
 
