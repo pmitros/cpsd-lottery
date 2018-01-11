@@ -32,7 +32,7 @@ Here are some of our suggestions:
 
     * How they deal with **special needs**, from advanced learners to dyslexia to autism.
 
-    * Warmth of the school, strength of the community, philosophy of teaching.
+    * Personality of the school: Warmth of the school, type of community, philosophy of teaching, academic rigor, focus on tests versus creative open-ended learning, etc.
 
 * More considerations for proximity and **school bus**:
 
