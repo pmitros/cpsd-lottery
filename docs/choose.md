@@ -80,9 +80,9 @@ Let's get a few things out-of-the-way: Most parents and kids are very happy wher
 
 ### Should I consider private schools or charters? 
 
-Massachusetts has among the best school districts in the nation, and among the best charters. It's certainly worth a look. 
+Massachusetts has among the best public schools in the nation, and among the best charters. It's certainly worth a look. 
 
-As for private schools, unless you're independently wealthy, it's probably not worth the money in the early grades. While JK-2 matter far more than higher grades for long term outcomes, the key thing in these years is developing positive attitudes towards school and learning and socioemotional development. These are areas CPSD excels at. The key reason to transfer is if your child has special needs which your school does not meet well. Many schools in CPSD don't do as well with advanced learners, certain types of disabilities, or kids who are otherwise a bit outside of the mainstream. 
+As for private schools, unless you're independently wealthy, it's probably not worth the money in the early grades. While JK-2 matter far more than higher grades for long-term outcomes, the key thing in the early years is developing positive attitudes towards school/learning and socioemotional development. Those are areas CPSD excels at. The key reason to transfer is if your child has special needs which your school does not meet well. Many schools in CPSD don't do as well with advanced learners, for certain types of disabilities, or kids who are otherwise a bit outside of the mainstream. 
 
-Some parents also take their kids out for upper school (CPSD's term for middle schools). Some of the upper schools have significant issues (which is not uncommon in districts; puberty is a tough time). However, the district is actively working to resolve these issues.  It's likely that by the time your kids hit the upper schools, the issues will be completely different :)
+Some parents also take their kids out for upper school (CPSD's term for middle schools). Some of the upper schools have significant issues (which is not uncommon in districts; puberty was a little tough for most of us too). However, the district is actively working to resolve these issues.  It's likely that by the time your kids hit the upper schools, the issues your kids will be facing will be completely different from those of the kids today :)
 
