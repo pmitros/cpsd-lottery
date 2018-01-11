@@ -28,7 +28,7 @@ Most families are spread throughout Cambridge since Amigos doesn't have neighbor
 ### What are the afterschool options like?
 
 * The Amigos Community School is probably the largest in the district. It has a very robust set of programs, including in higher grades. It's very popular JK-5. Most kids want to do this program since their friends are in it. It used to be JK-8, but by city policy, it's no longer available in middle school. 
-* There is also free-to-the-parents before-school program, supported by Friends of Amigos, which starts at 7:30 am (drawing, coloring, etc.). Starting around 8 am, older kids can also play in the playground or gym.
+* There is also free-to-the-parents before-school program, which starts at 7:30 am (drawing, coloring, etc.). Starting around 8 am, older kids can also play in the playground or gym.
 
 *Note: Many schools tend to have two programs: a city-run one consisting of fluid play and homework help and Community Schools consisting of a-la-carte courses. The parent I spoke to made a strong argument about how a larger, primary program was a better model. It allows for a greater diversity of classes, as well as for friends from school classes to be together in the same program. Of course, kids can always bus to other afterschool programs as well.*
 
