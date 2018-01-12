@@ -52,7 +52,7 @@ A large percentage of teachers are underrepresented minorities -- especially Lat
 
 ### How happy are families about the school, generally speaking? Any reasons for leaving? What are the most common problems parents give about your school?
 
-The number one reason for leaving is that parents priced out of Cambridge, followed by employment reasons or returning to a home country abroad. One was home-schooled for religious reasons.
+The top reason for leaving is that parents leave Cambridge (e.g. being priced out of Cambridge, employment reasons, returning to a home country abroad, or other reasons). One was home-schooled for religious reasons.
 
 ### Tips for new families
 
