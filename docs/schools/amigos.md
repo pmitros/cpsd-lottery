@@ -1,8 +1,6 @@
 ## General
 
-Amigos is a K-8 school based on a two-way Spanish immersion program. The school tends to be oversubscribed. Paid lunch students without priority points have low odds of making it in (maybe 20-25% in the year we looked at in detail, but there can be significant variation from year to year). Free/reduced lunch students without priority points have a 50/50 shot. Students with language priority points generally do make it in. 
-
-The parents we spoke to provided a video giving an overview of parent and community organizations at Amigos in both [English](https://drive.google.com/file/d/1UzfafezMXU0x16dR251ut4fmNjAAgMMv/view?usp=drive_web) and [Spanish](https://drive.google.com/file/d/1728S9NV2SY11D88looam0LcJ33tLnwGY/view?usp=drive_web)
+Amigos is a K-8 school based on a two-way Spanish immersion program. The school tends to be oversubscribed. Paid lunch students without priority points have low odds of making it in (maybe 20-25% in the year we looked at in detail, but there can be significant variation from year to year). Free/reduced lunch students without priority points have a 50/50 shot. Students with language priority points generally do make it in.
 
 ### What's to like?
 
@@ -15,6 +13,14 @@ The parents we spoke to provided a video giving an overview of parent and commun
 * Building is small and old
 
 ## General
+
+Amigos provided an overview video, so we'll begin with that:
+
+<video controls>
+   <source src="http://mitros.org/cpsd/videos/amigos_bilingual.webm" type="video/webm">
+   <source src="http://mitros.org/cpsd/videos/amigos_bilingual.ogg" type="video/ogg">
+   <source src="http://mitros.org/cpsd/videos/amigos_bilingual.mp4" type="video/mp4">
+</video>
 
 ### What do most parents say they like the most about your school?
 
@@ -134,6 +140,16 @@ Groupwork is dominant. There is an emphasis that teachers should not be lecturin
 But the predominant model is groupwork, not project-based.
 
 ## Family Engagement
+
+Amigos provided a video giving an overview of family engagement, so we'll begin with that:
+
+<video controls>
+   <source src="http://mitros.org/cpsd/videos/amigos_friends_en.webm" type="video/webm">
+   <source src="http://mitros.org/cpsd/videos/amigos_friends_en.ogg" type="video/ogg">
+   <source src="http://mitros.org/cpsd/videos/amigos_friends_en.mp4" type="video/mp4">
+</video>
+
+The above video is also available in [Spanish](https://drive.google.com/file/d/1728S9NV2SY11D88looam0LcJ33tLnwGY/view?usp=drive_web).
 
 ### Are parents welcome in classrooms? In the library?
 
