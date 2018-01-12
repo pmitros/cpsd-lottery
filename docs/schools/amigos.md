@@ -2,6 +2,8 @@
 
 Amigos is a K-8 school based on a two-way Spanish immersion program. The school tends to be oversubscribed. Paid lunch students without priority points have low odds of making it in (maybe 20-25% in the year we looked at in detail, but there can be significant variation from year to year). Free/reduced lunch students without priority points have a 50/50 shot. Students with language priority points generally do make it in. 
 
+The parents we spoke to provided a video giving an overview of parent and community organizations at Amigos in both [English](https://drive.google.com/file/d/1UzfafezMXU0x16dR251ut4fmNjAAgMMv/view?usp=drive_web) and [Spanish](https://drive.google.com/file/d/1728S9NV2SY11D88looam0LcJ33tLnwGY/view?usp=drive_web)
+
 ### What's to like?
 
 * Top test scores in the district
