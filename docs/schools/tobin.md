@@ -102,17 +102,17 @@ In contrast to child cares, the 3-year-olds don't really have playtime. They are
 
 ### How academically intense are the programs in grades 3-5?
 
-It depends on the classroom. They've come along; it's more project-based, and the project-based work is starting to improve pretty quickly. It could be a little more intense in the projects, but kids came out pretty well prepared for 7th grade. Teachers in upper school could identify Montessori kids because the kids were more independent and self-motivated. Kids encouraged to do own planning. Better prepared. 
-
-The upper grades have been around for maybe 4-5 years, so they've evolved quite a bit. No homework, but some research for projects at home. 
+It depends on the classroom. They've come along; it's more project-based, and the project-based work is starting to improve pretty quickly. It could be a little more intense in the projects, but kids came out pretty well prepared for 7th grade. Teachers in upper school can identify Montessori kids without asking because the kids were more independent, more self-motivated, better at planning their own time, and generally better prepared. 
 
 ### Is there homework, and how much in each grade?
 
-Tobin has gotten away from homework. The kids in older grades did sometimes have a lot of homework when they were in 1st-3rd, and it wasn't consistent but culture varied by teacher and classroom. Teachers would send home a weekly homework packet with worksheets and readings. Homework tended to be a little easier than classwork since it was expected there would be less support; the goal was to build confidence and to reinforce. Now, there is consistently no traditional homework (e.g. no worksheets or similar) per school policy. That standardization came as the school moved out of the experimental phase. The kids do have some things to do at home: 
+Tobin has gotten away from homework. The kids do have some things to do at home: 
 
 * Research for projects
 * Optional things for kids who ask (e.g. math portals online)
 * Kids may be in the book group where they read books on specifics topics (e.g. interesting social issues, etc.)
+
+The upper grades have been around for maybe 4-5 years, and they've evolved quite a bit in that time. Some of the kids in older grades had a lot of homework when they were in 1st-3rd (at the time, it wasn't consistent but culture varied by teacher and classroom). Some teachers send home a weekly homework packet with worksheets and readings. Homework tended to be a little easier than classwork since it was expected there would be less support; the goal was to build confidence and to reinforce. As the school matured, it adopted a pretty broad no-homework policy; that standardization came as the school moved out of the experimental phase. 
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
