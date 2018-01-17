@@ -81,22 +81,24 @@ There are also clubs for advanced learners and special interests. There is:
 
 ### Aside from the math, English, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
-* The school has [Kodaly Music](https://en.wikipedia.org/wiki/Kod%C3%A1ly_method) through third grade which was fundraised by parents and a few anonymous benefactors. In fourth grade, kids play the recorder. In fifth grade, kids pick an instrument. The Kodaly program is fantastic, but the 4th/5th grade ones are not all too robust. Kids don't really practice; you'll hear the same songs over-and-over: "Mary Had a Little Lamb" and "Tequila" (saying "Tortilla" instead of "Tequila"). The Tobin Community School has really good piano lessons. So the music program is really good and then not-so-good.
-* There is art from grade three on up
+* [Kodaly Music](https://en.wikipedia.org/wiki/Kod%C3%A1ly_method) through third grade which was fundraised by parents and a few anonymous benefactors. In fourth grade, kids learn the recorder, and in fifth grade, pick an instrument. The Kodaly program is fantastic, but the 4th/5th grade ones are less robust. You'll hear the same songs over-and-over: "Mary Had a Little Lamb" and "Tequila" (saying "Tortilla" instead of "Tequila"). So the music program is really good and then not-so-good. The Tobin Community School has really good piano lessons too. 
+* Art from grade three on up
 * Spanish was eliminated in the Innovation Agenda, but is offered in the afterschool
-* There is a computer component from 4th grade where students get Chromebooks and work with Google Docs
-* There is a library class, and the library is well-utilized. It is shared with Vassal Lane Upper School, opens before school and closes a little after school. Friends of Tobin does a book fair to raise money for the library
-* Gym is twice a week
+* A computer component from 4th grade where students get Chromebooks and work with Google Docs
+* Library class, and the library is well-utilized. It is shared with Vassal Lane Upper School, opens before school and closes a little after school. Friends of Tobin does a book fair to raise money for the library
+* Gym twice a week
 
-Overall, the parents expressed an abstract wish for more art, foreign languages, etc., but understood that could not be fit into the school day without making it a bit too scattershot and appreciate the greater depth of having fewer programs.
+Overall, the parents expressed an abstract wish for more art, foreign languages, etc., but understood that could not be fit into the school day without making it a bit too scattershot and appreciated the greater depth which having fewer programs allowed for.
 
 ### How is the day broken down on academic versus non-academic time? How much recess is there? How much do kids play otherwise? 
 
-There is one recess of 20 minutes per day (but it's guaranteed; teachers can no longer take it away as a disciplinary measure). Kids have 20-25 minutes for lunch. There are snacks in classroom. In contrast to most schools where kids bring their own snacks, each week, one family in each classroom supplies the snacks. The kids then have a process where they serve snack (kids will cut up apples, set up tables, etc. etc.) A few teachers make up for the lack of recess by having things like mini-trampolines in classrooms, having kids run around the school building, yoga balls, or similar. One classroom has a rocker chair (just one, with an involved process for which child uses it when that the kids must manage). Teachers can ask for funds from Friends, and many of these in-classroom activities were funded this way. 
+* There is one recess of 20 minutes per day (but it's guaranteed; teachers can no longer take it away as a disciplinary measure).
+* In cold weather, some classrooms go out and some don't. Especially the 3-year-olds are sometimes kept in (an assistant teacher helps get outdoor clothing on, but this is sometimes tough to do in practice with kids so little with limited time).
+* A few teachers make up for the lack of recess by having things like mini-trampolines in classrooms, having kids run around the school building, yoga balls, or similar. One classroom has a rocker chair (just one, with an involved process for which child can uses it when for the kids to manage). Teachers can ask for funds from Friends, and many of these in-classroom activities were funded this way. 
+* Kids have 20-25 minutes for lunch.
+* There are snacks in classroom. In contrast to most schools where kids bring their own snacks, each week, one family supplies all the snacks for their kid's classroom. The kids have a procedure where they serve the snacks (kids will cut up apples, set up tables, etc. etc.).
 
-In contrast to child cares, the 3-year-olds don't really have playtime. They are learning life skills (e.g. kitchen time) and doing creative things, though (not lectures). There is a lot of work on rugs on the floor, and as with snack time, there is a deliberate way kids set up the mat and than materials on the mat. But there aren't things like dress-up time or other traditional childcare activities for the little kids. 
-
-In cold weather, some classrooms go out and some don't. Especially the 3-year-olds are sometimes kept in (an assistant teacher helps get outdoor clothing on, but this is sometimes tough to do in practice with kids so little).
+In contrast to child cares, the 3-year-olds don't really have playtime. They are learning life skills (e.g. kitchen time) and doing creative things. There is a lot of work on rugs on the floor, with a deliberate way kids set up the mat and than set up materials on the mat. But there aren't really things like dress-up corner or other traditional childcare activities for the little kids. 
 
 ### How academically intense are the programs in grades 3-5?
 
