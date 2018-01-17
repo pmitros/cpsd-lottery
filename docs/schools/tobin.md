@@ -60,12 +60,12 @@ Most people are happy, but not every kid fits into the Montessori model; some ki
 
 ### Tips for new families
 
-* **Be prepared** It's tough to come into a public school at 3 years old. It can also be logistically difficult for transportation (no bus until age 4). Tough to get kids in/out at that age. Kids also ought to be potty trained (they can be asked to leave if they are not; it's not common, but it's happened)
-* **You won't see evidence of learning right away**. The first year or two is foundational stuff you might not pick up on as a parent: Writing grip. Manipulating small objects. Etc.
-* **You have to understand Montessori**. The method has different milestones. Just because kids get in early, that doesn't mean they'll be ahead of the game -- the early start is not there to be a genius production business. It's a pretty subtle program
-* **There are options for afterschool care**, even at the 3-year-old level
-* **Don't worry too much**. The school knows how to address issues for young kids. Teacher aides will help 3-year-olds with lunch (e.g. to open tupperware), take them to bathroom, make sure a coat is on going outside, etc. It's not daycare -- it's a big step up -- but there is support to make it work
-* **Observe Children's House before coming in**. They're flexible about observation. Observe 1-3 and 4-5 before kids go up to those grades too; the school encourages that. The transitions are big, but the school does a good job preparing kids and parents for them. There are parent workshops to explain what happens in transition. Take advantage of that. It's a big transition, but the kid is ready to get out at that point ("senioritis" in kindergarten).
+* **Be prepared.** It's tough to come into a public school at 3 years old. It can also be logistically difficult for transportation (no bus until age 4). Tough to get kids in/out at that age. Kids also ought to be potty trained (they can be asked to leave if they are not; it's not common, but it's happened)
+* **You won't see evidence of learning right away.** The first year or two is foundational stuff you might not pick up on as a parent: Writing grip. Manipulating small objects. Etc.
+* **You have to understand Montessori**. The method has different milestones. Just because kids get in early, that doesn't mean they'll be ahead of the game -- the early start is not there to be a genius production business but to get kids used to the structure of school, develop appropriate attitudes towards learning, etc. It's a pretty subtle program.
+* **There are options for afterschool care**, even at the 3-year-old level.
+* **Don't worry too much**. The school knows how to address young kids' issues. Teacher aides will help 3-year-olds with lunch (e.g. to open containers), take them to bathroom, make sure winter clothing is on, etc. It's not daycare -- it's a big step up -- but there is support to make it work.
+* **Observe Children's House before coming in**. They're flexible about observation. Observe grades 1-3 and grades 4-5 before kids go up to those grades too; the school encourages that. The transitions are big, but the school does a good job preparing kids and parents for them. There are parent workshops to explain what happens in transition. Take advantage of that. It's a big transition, but the kid is ready to get out at that point (kids get "senioritis" in kindergarten).
 
 ## Academics
 
