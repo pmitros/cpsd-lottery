@@ -14,7 +14,7 @@ Amigos is a K-8 school based on a two-way Spanish immersion program. The school 
 
 ## General
 
-The principal of Amigos created provided an overview video, which the parent group asked us to begin with. However, the district administration objected to us embedding it here, so we're now just [linking to it](http://amigos.cpsd.us/about_our_school/from_the_principal).  Click on "Watch a video on how to support your bilingual student" on that page for a good overview of the school.
+The principal of Amigos created an overview video about the school, which the parent group asked us to begin with. However, the district administration objected to us embedding it here, so we're now just [linking to it](http://amigos.cpsd.us/about_our_school/from_the_principal).  Click on "Watch a video on how to support your bilingual student" on that page for a good overview of the school.
 
 ### What do most parents say they like the most about your school?
 
