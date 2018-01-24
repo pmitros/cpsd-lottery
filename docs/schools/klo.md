@@ -39,7 +39,7 @@ The main reason for leavin is that families move away. Some move to the suburbs 
 The major criticisms are:
 
 * Parent involvement is limited. Friends of Longfellow is a new group which just incorporated a year ago, and the school council is not very active. 
-* The Principal is considered a little bit strict
+* The Principal is a little bit strict, which some parents praise ("as a principal should be") and others dislike. She's also kind and gentle. She knows all students by their name. She makes a point of greeting the children in the hallways and she comes and talks to each classroom several times a year. 
 * The cafeteria is noisy and has horrible acoustics, to the level of bothering some younger students
 
 ### Tips for new families
@@ -55,12 +55,12 @@ The major criticisms are:
 
 ### Aside from the math, english, science, and social studies, what does the class day include? What are the music, arts, world language, etc. programs.
 
-* The school has a strong science and technology angle. Five or six years ago the school was awarded a fairly prestigous grant (probably around a million dollars from the Merck family foundation) for technology. Each child is provided with an iPad and each classroom has a smartboard. There's a makerspace where kids go every two weeks. Kids also do computer programming appropriate to their level.
-* Upper grades partner with one or more MIT organizations (the parent thought it was the Broad Institute) and students have mentorship from members of the MIT community.
+* The school has a strong science and technology angle. The Kennedy Longfellow held a $2 million grant technology grant from The Merck family foundation in partnership Leslie University until June 2015 which enabled the school to incorporate cutting edge technology into classroom learning. Each child is provided with an iPad and each classroom has a smartboard. There's a makerspace where the children go every few weeks. Kids also do programming at their appropriate level.
+* There are also volunteer reading-buddies from the Volpe National Transportation Center and the 5th graders are partnered with "Key-pals" from Draper Laboratory, IBM, and Massachusetts Institute of Technology. Other programming includes class lessons from a great music teacher and innovative art lessons from an art teacher who partners with the classroom teacher to incorporate classroom themes into the art projects.
 
 ### How is the day broken down on academic versus non-academic time? How much recess is there? How much do kids play otherwise?
 
-* In kindergarten, there's a lot of playtime. Formally, kids go out twice a day, weather permitting, but all the kindergarten classrooms have a door to the playground (or very close), so teachers can step outside as needed if kids need to get the sillies out.
+* In kindergarten, there's a lot of playtime. Often the kids go out twice a day, weather permitting, but all the kindergarten classrooms have a door to the playground (or very close), so teachers can step outside as needed if kids need to get the sillies out.
 * By grade two, there is only about 15 minutes of recess per day. Lunch is about 25 minutes, so kids often don't have time to finish eating. There isn't much free choice time for the older kids either -- it's mostly on special occasions (birthday) or a few times per week
 * There is a lot of diversity in terms of types of teaching, though, with groupwork and similar, so there is some balance; it's not all worksheets and similar.
 
@@ -70,7 +70,7 @@ The parent I spoke to did not know.
 
 ### Is there homework, and how much in each grade?
 
-It varies by teacher, but it doesn't tend to be too much. The parent I spoke to reported that in kindergarten, some teachers give kids sight words to look over, and in second grade, there was an optional weekly math worksheet which a bright student could complete in about ten minutes
+It varies by teacher, but it doesn't tend to be too much. The parent I spoke to reported that in kindergarten, some teachers give kids sight words to look over, and in second grade, there was an optional (relatively short) weekly math worksheet. As with all schools, kids are asked to read daily. 
 
 ### What role does MCAS play in the school and in curriculum design? What role does the Common Core play?
 
@@ -78,9 +78,9 @@ The parent I spoke to did not know, but was aware that it stressed out both the 
 
 ### What modes of instruction are dominant (e.g. lecture, projects, groupwork, etc.)
 
-In kindergarten, kids sit 3-4 per table, and do activities with teachers walking around (although mostly not groupwork).
+In kindergarten, kids sit 3-4 per table and either work alone or together in small groups with appropriate teacher support. There are occasional team group projects with adult support.
 
-By grade two, there is a combination of group projects (often two students paired together) and creative multistep individual projects. I asked for a few examples:
+By grades one and two, there is a combination of group projects (often two students paired together) and creative multistep individual projects. I asked for a few examples:
 
 * Classrooms celebrate Japanese Children's Day. Kids make a fish kite, where they color paper to look like a fish, spray with water, glue it, and write a statement about how they think about themselves.
 * The parents described the kids spearheading a pretty elaborate puppetshow supported by the teacher in first grade (building sets and then performing)
@@ -107,7 +107,7 @@ No it doesn't. There aren't really any parent-lead activities in the schools.
 
 ### What’s the role of the school council? How often does the school council vote? How many members of the community typically attend meetings? Teacher council? How involved is the community in decision-making?
 
-It's not very healthy; one year there were no meetings. Another year, they were intermittent. This year, it's been meeting once a month. Typically attending are:
+The School Council is not very healthy yet, but it is improving. This academic year, meeting are being held monthly and are attended by:
 
 * 1 person from East End House
 * President of Cambridge Business Association
@@ -116,7 +116,7 @@ It's not very healthy; one year there were no meetings. Another year, they were 
 * Principal
 * Family liasion
 
-A lot of time is devoted to organizing "Family Fun Festival" and the international potluck. The teachers drive a lot of these events so there is not much need for parent help. It's not very involved in curriculum or budget. There was a little bit of discussion of external donations and partnerships, but overall, the goals of the school council are not very well-defined.
+A lot of time is devoted to organizing "Family Fun Festival" and the international potluck. The teachers drive a lot of these events so there is not much need for parent help. It's not very involved in curriculum or budget. There was a little bit of discussion of external donations and partnerships, but overall, the goals of the school council are not very well-defined yet.
 
 ### How transparent is the school?
 
