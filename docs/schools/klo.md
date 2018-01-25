@@ -1,6 +1,6 @@
-Kennedy-Longfellow is a school in East Cambridge, in the Kendall/Lechmere area. It's an older building, with a nice playground and field.
+Kennedy-Longfellow is a school in East Cambridge, in the Kendall/Lechmere area. It's an older building, with a nice playground and field. K-Lo is one of the more traditional schools in the district, with low staff turnover and a few teachers who have stayed there for decades. It has ties to MIT, values advanced learners, and has strong programs in STEM (including computer programming). A large portion of the student body comes from families of MBA students, which brings an internationally diverse crowd, but with sometimes rapid student turnover.
 
-Kennedy-Longfellow is in the MIT area, which has *many* schools and fewer families, so it tends to be very undersubscribed.
+Kennedy-Longfellow is in the MIT area, an area with *many* schools and few families. Indeed, it is the eastern-most school in the district and the closest to Kendall Square (predominantly, a business area), so it tends to be extremely undersubscribed. 
 
 ## General
 
@@ -13,7 +13,7 @@ Kennedy-Longfellow is in the MIT area, which has *many* schools and fewer famili
 
 Parents come from all over. K-Lo is the Eastern-most school within Cambridge, so it tends to be very undersubscribed, and many families from all over Cambridge are mandatorily assisgned. Many are initially upset at the mandatory assignment, but then very happy with the talent of teachers and the welcoming atmosphere.
 
-There are a lot of kids from MIT and Harvard business school programs who tend to be housed in big apartment buildings close to Kendall or in graduate dormitories. They stay a short time (1-2 years), but bring a lot to the school -- there's an international character to the school. Their kids also tend to be younger.
+There are a lot of kids from MIT and Harvard business school programs who tend to be housed in big apartment buildings close to Kendall or in graduate dormitories. They stay a short time (1-2 years), but bring a lot to the school -- there's an international character to the school once they get to know the teachers. Their kids also tend to be younger.
 
 ### What are the afterschool options like?
 
@@ -36,10 +36,11 @@ The majority of families are quite happy.
 
 The main reason for leavin is that families move away. Some move to the suburbs due to cost of living in Cambridge. There are also MBA students who stay for 1-2 years and then leave, mostly in younger grades. This might mean that a class starts with 19 kids, but has just a dozen by the end of the year. In older grades, fewer families leave. There were a few cases cases where kids with disciplinary issues or special needs transferred out of the school.
 
+The school tends to be on the stricter end of the spectrum of the district (although CPSD, as a whole, tends to be on the progressive end of public schools, so less strict on the whole). Strictness is mostly a question of personality and fit; some parents (esp. immigrants from African and Asian countries) are used to stricter schools and find the district too soft as a whole. Other parents (esp. from more progressive upper class Massachusetts families) come from cultures which favor a softer approach.
+
 The major criticisms are:
 
 * Parent involvement is limited. Friends of Longfellow is a new group which just incorporated a year ago, and the school council is not very active. 
-* The Principal is a little bit strict, which some parents praise ("as a principal should be") and others dislike. She's also kind and gentle. She knows all students by their name. She makes a point of greeting the children in the hallways and she comes and talks to each classroom several times a year. 
 * The cafeteria is noisy and has horrible acoustics, to the level of bothering some younger students
 
 ### Tips for new families
@@ -57,6 +58,8 @@ The major criticisms are:
 
 * The school has a strong science and technology angle. The Kennedy Longfellow held a $2 million grant technology grant from The Merck family foundation in partnership Leslie University until June 2015 which enabled the school to incorporate cutting edge technology into classroom learning. Each child is provided with an iPad and each classroom has a smartboard. There's a makerspace where the children go every few weeks. Kids also do programming at their appropriate level.
 * There are also volunteer reading-buddies from the Volpe National Transportation Center and the 5th graders are partnered with "Key-pals" from Draper Laboratory, IBM, and Massachusetts Institute of Technology. Other programming includes class lessons from a great music teacher and innovative art lessons from an art teacher who partners with the classroom teacher to incorporate classroom themes into the art projects.
+
+*Editor's note: The technology component in many schools is Google Docs. The program described at K-Lo -- with computer programming -- was simply in a different class.*
 
 ### How is the day broken down on academic versus non-academic time? How much recess is there? How much do kids play otherwise?
 
@@ -107,16 +110,7 @@ No it doesn't. There aren't really any parent-lead activities in the schools.
 
 ### What’s the role of the school council? How often does the school council vote? How many members of the community typically attend meetings? Teacher council? How involved is the community in decision-making?
 
-The School Council is not very healthy yet, but it is improving. This academic year, meeting are being held monthly and are attended by:
-
-* 1 person from East End House
-* President of Cambridge Business Association
-* 3-4 teachers
-* 3-4 parents
-* Principal
-* Family liasion
-
-A lot of time is devoted to organizing "Family Fun Festival" and the international potluck. The teachers drive a lot of these events so there is not much need for parent help. It's not very involved in curriculum or budget. There was a little bit of discussion of external donations and partnerships, but overall, the goals of the school council are not very well-defined yet.
+We spoke for a bit about this. The impression was that the school council was not very healthy (indeed, as a body, its role was the weakest of any of the schools we've interviewed), but that this was an area of focus of the school's adminstration (and probably parent community), and that it was rapidly becoming more active and robust. Meetings are now held monthly, and include a diverse group of family, staff, and community members.
 
 ### How transparent is the school?
 
