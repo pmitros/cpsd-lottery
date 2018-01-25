@@ -36,7 +36,7 @@ The majority of families are quite happy.
 
 The main reason for leavin is that families move away. Some move to the suburbs due to cost of living in Cambridge. There are also MBA students who stay for 1-2 years and then leave, mostly in younger grades. This might mean that a class starts with 19 kids, but has just a dozen by the end of the year. In older grades, fewer families leave. There were a few cases cases where kids with disciplinary issues or special needs transferred out of the school.
 
-The school tends to be on the stricter end of the spectrum of the district (although CPSD, as a whole, tends to be on the progressive end of public schools, so less strict on the whole). Strictness is mostly a question of personality and fit; some parents (esp. immigrants from African and Asian countries) are used to stricter schools and find many of the schools in the district too soft as a whole. Other parents (esp. from more progressive upper class Massachusetts families) come from cultures which favor a softer approach.
+The school tends to be on the stricter end of the spectrum of the district (although CPSD, as a whole, tends to be on the progressive end of public schools, so most schools are softer on the whole than what most parents might be used to from their childhood). Strictness is mostly a question of personality and fit; some parents (esp. immigrants from African and Asian countries) are used to stricter schools and find many of the schools in the district too soft as a whole. Other parents (esp. from more progressive upper class Massachusetts families) come from cultures which favor a softer approach.
 
 The major criticisms are:
 
