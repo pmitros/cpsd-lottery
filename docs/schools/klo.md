@@ -2,7 +2,7 @@ Kennedy-Longfellow is a school in East Cambridge in the Kendall/Lechmere area. I
 
 Kennedy-Longfellow is in the MIT area, an area with *many* schools and few families. Indeed, it is the eastern-most school in the district and the closest to Kendall Square (predominantly, a business area with less residential/family housing), so it tends to be extremely undersubscribed. 
 
-**This interview happened in late January, and there are sections we're still finishing up.**
+**This interview happened in late January, and there are sections we're still finishing a few sections up. We decided to post what's ready so it'd be up before the lottery**
 
 ## General
 
