@@ -6,3 +6,5 @@ And what a program it is! The JK/K classroom is run by one of the best teachers 
 Oh, and there's also a strong parent community.
 
 More information is on the main King Open page. We interviewed one parent for both programs since many parts are common to both.
+
+The Friends of Ola have a [Facebook page](http://www.facebook.com/FriendsOfOla).
